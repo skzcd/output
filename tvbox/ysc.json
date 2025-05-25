@@ -1,7 +1,16 @@
 {
  "urls" : [  {
     "url" : "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/nf/main/nf.json",
-    "name" : "🥞自用"
+    "name" : "🥞随便"
+  }, {
+    "url" : "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/tvbox/nf.json",
+    "name" : "🥞随便1"
+  }, {
+    "url" : "https://gh.ddlc.top/https://github.com/skzcd/output/blob/main/tvbox/nf.json",
+    "name" : "🥞随便2"
+  }, {
+    "url" : "https://ghfast.top/https://raw.githubusercontent.com/skzcd/output/main/tvbox/nf.json",
+    "name" : "🥞随便3"
   }, {
     "url" : "https://gh-proxy.com/https://github.com/gaotianliuyun/gao/blob/master/0827.json",
     "name" : "🦐fongmi"
