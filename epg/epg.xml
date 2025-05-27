@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250527015746 +0800">
+<tv date="20250527075916 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -33720,6 +33720,18 @@
 	<programme channel="黑莓动画" start="20250527071900 +0800" stop="20250527085000 +0800">
 		<title lang="zh">太空夺旗</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250527085000 +0800" stop="20250527100800 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250527100800 +0800" stop="20250527114200 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250527114200 +0800" stop="20250527124800 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250527124800 +0800" stop="20250527142600 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -33737,6 +33749,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250527064900 +0800" stop="20250527082700 +0800">
 		<title lang="zh">冬荫功2：拳霸天下</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527082700 +0800" stop="20250527100600 +0800">
+		<title lang="zh">我在减肥</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527100600 +0800" stop="20250527114300 +0800">
+		<title lang="zh">兄弟，请注意</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527114300 +0800" stop="20250527132800 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527132800 +0800" stop="20250527145000 +0800">
+		<title lang="zh">别叫我酒神</title>
 	</programme>
 	<channel id="龙岩综合">
 		<display-name lang="zh">龙岩综合</display-name>
