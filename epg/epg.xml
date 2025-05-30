@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250530033044 +0800">
+<tv date="20250530092456 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -33633,6 +33633,18 @@
 	<programme channel="黑莓动画" start="20250530071700 +0800" stop="20250530084100 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250530084100 +0800" stop="20250530100900 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250530100900 +0800" stop="20250530113200 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250530113200 +0800" stop="20250530131000 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250530131000 +0800" stop="20250530143600 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -33653,6 +33665,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250530080800 +0800" stop="20250530092000 +0800">
 		<title lang="zh">特警使命：狙击风暴</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250530092000 +0800" stop="20250530110200 +0800">
+		<title lang="zh">蜡笔小新剧场版2020</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250530110200 +0800" stop="20250530125200 +0800">
+		<title lang="zh">某处，某人</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250530125200 +0800" stop="20250530142500 +0800">
+		<title lang="zh">斗破苍穹b7觉醒</title>
 	</programme>
 	<channel id="龙岩综合">
 		<display-name lang="zh">龙岩综合</display-name>
