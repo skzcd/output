@@ -36,6 +36,13 @@
 {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijumi.net/"},
     
     {
+      "name":"平台直播",
+      "type":0,
+      "url":"http://tv.iill.top/m3u/Live",
+      "ua":"okhttp/3.15",
+      "playerType":2
+    },
+    {
       "key": "alllive",
       "name": "📽️一直播┃直播",
       "type": 3,
@@ -43,9 +50,10 @@
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747508438229/f0518.txt;md5;363b678342a43763ffbc6c3ec6c5fc0b"
     },
-{
+    {
       "key": "爱看4K",
       "name": "✨爱看4K短剧✨",
       "type": 3,
