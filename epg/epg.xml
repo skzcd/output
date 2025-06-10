@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250610031454 +0800">
+<tv date="20250610092501 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -24033,29 +24033,104 @@
 	<channel id="江苏影视">
 		<display-name lang="zh">江苏影视</display-name>
 	</channel>
-	<programme channel="江苏影视" start="20250610000000 +0800" stop="20250610003000 +0800">
-		<title lang="zh">星影院</title>
+	<programme channel="江苏影视" start="20250610000000 +0800" stop="20250610002000 +0800">
+		<title lang="zh">你是我的城池营垒</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610003000 +0800" stop="20250610090000 +0800">
-		<title lang="zh">真情剧场</title>
+	<programme channel="江苏影视" start="20250610002000 +0800" stop="20250610010100 +0800">
+		<title lang="zh">第二次也很美(7)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610090000 +0800" stop="20250610140000 +0800">
-		<title lang="zh">青春剧场</title>
+	<programme channel="江苏影视" start="20250610010100 +0800" stop="20250610014200 +0800">
+		<title lang="zh">第二次也很美(8)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610140000 +0800" stop="20250610190000 +0800">
-		<title lang="zh">英雄剧场</title>
+	<programme channel="江苏影视" start="20250610014200 +0800" stop="20250610022300 +0800">
+		<title lang="zh">第二次也很美(9)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610190000 +0800" stop="20250610191000 +0800">
-		<title lang="zh">荔枝小剧场</title>
+	<programme channel="江苏影视" start="20250610022300 +0800" stop="20250610030400 +0800">
+		<title lang="zh">第二次也很美(10)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610191000 +0800" stop="20250610210000 +0800">
-		<title lang="zh">家庭剧场</title>
+	<programme channel="江苏影视" start="20250610030400 +0800" stop="20250610034500 +0800">
+		<title lang="zh">第二次也很美(11)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610210000 +0800" stop="20250610215000 +0800">
-		<title lang="zh">剧说那些事儿</title>
+	<programme channel="江苏影视" start="20250610034500 +0800" stop="20250610042600 +0800">
+		<title lang="zh">第二次也很美(12)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250610215000 +0800" stop="20250610235959 +0800">
-		<title lang="zh">星影院</title>
+	<programme channel="江苏影视" start="20250610042600 +0800" stop="20250610052000 +0800">
+		<title lang="zh">第二次也很美(13)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610052000 +0800" stop="20250610062000 +0800">
+		<title lang="zh">第二次也很美(14)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610062000 +0800" stop="20250610070500 +0800">
+		<title lang="zh">第二次也很美(15)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610070500 +0800" stop="20250610080000 +0800">
+		<title lang="zh">请叫我总监</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610080000 +0800" stop="20250610084100 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610084100 +0800" stop="20250610093200 +0800">
+		<title lang="zh">请叫我总监</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610093200 +0800" stop="20250610100600 +0800">
+		<title lang="zh">请叫我总监</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610100600 +0800" stop="20250610104700 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610104700 +0800" stop="20250610113800 +0800">
+		<title lang="zh">请叫我总监</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610113800 +0800" stop="20250610123000 +0800">
+		<title lang="zh">请叫我总监</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610123000 +0800" stop="20250610131300 +0800">
+		<title lang="zh">我是刑警</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610131300 +0800" stop="20250610134700 +0800">
+		<title lang="zh">我是刑警</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610134700 +0800" stop="20250610142000 +0800">
+		<title lang="zh">我是刑警</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610142000 +0800" stop="20250610150500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610150500 +0800" stop="20250610155000 +0800">
+		<title lang="zh">我是刑警</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610155000 +0800" stop="20250610163500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610163500 +0800" stop="20250610171700 +0800">
+		<title lang="zh">我是刑警</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610171700 +0800" stop="20250610180100 +0800">
+		<title lang="zh">我是刑警</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610180100 +0800" stop="20250610190000 +0800">
+		<title lang="zh">勇者大冲关</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610190000 +0800" stop="20250610194300 +0800">
+		<title lang="zh">我的后半生(7)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610194300 +0800" stop="20250610202600 +0800">
+		<title lang="zh">我的后半生(8)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610202600 +0800" stop="20250610211000 +0800">
+		<title lang="zh">我的后半生(9)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610211000 +0800" stop="20250610215500 +0800">
+		<title lang="zh">你是我的城池营垒</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610215500 +0800" stop="20250610223500 +0800">
+		<title lang="zh">你是我的城池营垒</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610223500 +0800" stop="20250610232500 +0800">
+		<title lang="zh">你是我的城池营垒</title>
+	</programme>
+	<programme channel="江苏影视" start="20250610232500 +0800" stop="20250610235959 +0800">
+		<title lang="zh">你是我的城池营垒</title>
 	</programme>
 	<channel id="山东教育">
 		<display-name lang="zh">山东教育</display-name>
@@ -24411,72 +24486,132 @@
 	<channel id="安徽经济生活">
 		<display-name lang="zh">安徽经济生活</display-name>
 	</channel>
-	<programme channel="安徽经济生活" start="20250610002600 +0800" stop="20250610014500 +0800">
-		<title lang="zh">第一时间</title>
+	<programme channel="安徽经济生活" start="20250610000000 +0800" stop="20250610010700 +0800">
+		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610014500 +0800" stop="20250610015000 +0800">
-		<title lang="zh">晚间看天气</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610015000 +0800" stop="20250610054700 +0800">
+	<programme channel="安徽经济生活" start="20250610010700 +0800" stop="20250610053200 +0800">
 		<title lang="zh">节目结束</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610054700 +0800" stop="20250610062700 +0800">
+	<programme channel="安徽经济生活" start="20250610053200 +0800" stop="20250610060000 +0800">
 		<title lang="zh">帮女郎帮你忙</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610062700 +0800" stop="20250610074200 +0800">
-		<title lang="zh">第一时间</title>
+	<programme channel="安徽经济生活" start="20250610060000 +0800" stop="20250610070500 +0800">
+		<title lang="zh">第1时间</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610074200 +0800" stop="20250610080500 +0800">
-		<title lang="zh">专题</title>
+	<programme channel="安徽经济生活" start="20250610070500 +0800" stop="20250610075000 +0800">
+		<title lang="zh">小敏家</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610080500 +0800" stop="20250610113500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610113500 +0800" stop="20250610114500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610114500 +0800" stop="20250610123000 +0800">
-		<title lang="zh">经视1时间</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610123000 +0800" stop="20250610130000 +0800">
-		<title lang="zh">经视说法</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610130000 +0800" stop="20250610132500 +0800">
-		<title lang="zh">团购节目</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610132500 +0800" stop="20250610162500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610162500 +0800" stop="20250610170000 +0800">
-		<title lang="zh">团购节目</title>
-	</programme>
-	<programme channel="安徽经济生活" start="20250610170000 +0800" stop="20250610173500 +0800">
+	<programme channel="安徽经济生活" start="20250610075000 +0800" stop="20250610082000 +0800">
 		<title lang="zh">健康行天下</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610173500 +0800" stop="20250610182000 +0800">
+	<programme channel="安徽经济生活" start="20250610082000 +0800" stop="20250610090000 +0800">
+		<title lang="zh">小敏家</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610090000 +0800" stop="20250610094500 +0800">
+		<title lang="zh">小敏家</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610094500 +0800" stop="20250610105000 +0800">
+		<title lang="zh">小敏家</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610105000 +0800" stop="20250610114000 +0800">
+		<title lang="zh">小敏家</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610114000 +0800" stop="20250610121000 +0800">
 		<title lang="zh">帮女郎帮你忙</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610182000 +0800" stop="20250610194700 +0800">
-		<title lang="zh">第一时间</title>
+	<programme channel="安徽经济生活" start="20250610121000 +0800" stop="20250610125500 +0800">
+		<title lang="zh">好事成双</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610194700 +0800" stop="20250610222500 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="安徽经济生活" start="20250610125500 +0800" stop="20250610134500 +0800">
+		<title lang="zh">好事成双</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610222500 +0800" stop="20250610230500 +0800">
-		<title lang="zh">新闻延长线</title>
+	<programme channel="安徽经济生活" start="20250610134500 +0800" stop="20250610142500 +0800">
+		<title lang="zh">好事成双</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610230500 +0800" stop="20250610234000 +0800">
-		<title lang="zh">经视说法</title>
+	<programme channel="安徽经济生活" start="20250610142500 +0800" stop="20250610151000 +0800">
+		<title lang="zh">好事成双</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610234000 +0800" stop="20250610235900 +0800">
+	<programme channel="安徽经济生活" start="20250610151000 +0800" stop="20250610164000 +0800">
+		<title lang="zh">好事成双</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610164000 +0800" stop="20250610173000 +0800">
+		<title lang="zh">谢谢你来了</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610173000 +0800" stop="20250610175500 +0800">
+		<title lang="zh">健康行天下</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610175500 +0800" stop="20250610183000 +0800">
 		<title lang="zh">帮女郎帮你忙</title>
 	</programme>
-	<programme channel="安徽经济生活" start="20250610235900 +0800" stop="20250610235959 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="安徽经济生活" start="20250610183000 +0800" stop="20250610194000 +0800">
+		<title lang="zh">第1时间</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610194000 +0800" stop="20250610201000 +0800">
+		<title lang="zh">直播安徽</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610201000 +0800" stop="20250610205500 +0800">
+		<title lang="zh">凡人歌</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610205500 +0800" stop="20250610214000 +0800">
+		<title lang="zh">凡人歌</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610214000 +0800" stop="20250610222000 +0800">
+		<title lang="zh">凡人歌</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610222000 +0800" stop="20250610230000 +0800">
+		<title lang="zh">帮女郎帮你忙</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250610230000 +0800" stop="20250610235959 +0800">
+		<title lang="zh">健康行天下</title>
 	</programme>
 	<channel id="安徽影视">
 		<display-name lang="zh">安徽影视</display-name>
 	</channel>
+	<programme channel="安徽影视" start="20250610000000 +0800" stop="20250610005500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610005500 +0800" stop="20250610052500 +0800">
+		<title lang="zh">静屏</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610052500 +0800" stop="20250610054900 +0800">
+		<title lang="zh">电视台无节目</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610054900 +0800" stop="20250610154600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610154600 +0800" stop="20250610155600 +0800">
+		<title lang="zh">我爱饭米粒</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610155600 +0800" stop="20250610163600 +0800">
+		<title lang="zh">老有所医</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610163600 +0800" stop="20250610170000 +0800">
+		<title lang="zh">我爱饭米粒</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610170000 +0800" stop="20250610172700 +0800">
+		<title lang="zh">我爱饭米粒</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610172700 +0800" stop="20250610180100 +0800">
+		<title lang="zh">影视第1线</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610180100 +0800" stop="20250610184100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610184100 +0800" stop="20250610184500 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610184500 +0800" stop="20250610192800 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610192800 +0800" stop="20250610223000 +0800">
+		<title lang="zh">风云大剧院</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610223000 +0800" stop="20250610231500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="安徽影视" start="20250610231500 +0800" stop="20250610235959 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
 	<channel id="安徽综艺体育">
 		<display-name lang="zh">安徽综艺体育</display-name>
 	</channel>
@@ -30252,14 +30387,14 @@
 	<channel id="重温经典">
 		<display-name lang="zh">重温经典</display-name>
 	</channel>
-	<programme channel="重温经典" start="20250610000000 +0800" stop="20250610031900 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20250610000000 +0800" stop="20250610032000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
-	<programme channel="重温经典" start="20250610031900 +0800" stop="20250610040000 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20250610032000 +0800" stop="20250610040000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20250610040000 +0800" stop="20250610060200 +0800">
-		<title lang="zh">结束</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20250610060200 +0800" stop="20250610063200 +0800">
 		<title lang="zh">小龙人09</title>
