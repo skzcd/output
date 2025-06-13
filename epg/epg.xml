@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250613032019 +0800">
+<tv date="20250613074156 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -32775,6 +32775,15 @@
 	<programme channel="黑莓动画" start="20250613063000 +0800" stop="20250613080500 +0800">
 		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250613080500 +0800" stop="20250613091000 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250613091000 +0800" stop="20250613104800 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250613104800 +0800" stop="20250613121800 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -32792,6 +32801,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250613074900 +0800" stop="20250613093700 +0800">
 		<title lang="zh">黄河绝恋</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250613093700 +0800" stop="20250613105100 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250613105100 +0800" stop="20250613122100 +0800">
+		<title lang="zh">高考那年遇见你</title>
 	</programme>
 	<channel id="龙岩综合">
 		<display-name lang="zh">龙岩综合</display-name>
