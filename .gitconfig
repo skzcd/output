@@ -163,6 +163,7 @@
 	directory = /etc/docker/output
 	directory = /etc/docker/output
 	directory = /etc/docker/output
+	directory = /etc/docker/output
 [user]
 	email = 465829705@qq.com
 	name = skzcd
