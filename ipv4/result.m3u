@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://localhost:8000/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="🕘️更新时间",2025-10-15 16:25:10
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="🕘️更新时间",2025-10-16 10:23:02
 http://61.149.251.202:4022/rtp/239.3.1.105:8092
 #EXTINF:-1 tvg-name="CCTV4 中文国际" tvg-logo="CCTV4 中文国际.png" group-title="📺央视频道",CCTV-4 中文国际
 http://61.149.251.202:4022/rtp/239.3.1.105:8092
@@ -18,15 +18,25 @@ http://8.134.110.147:5300/?id=fxzl
 #EXTINF:-1 tvg-name="CCTV-老故事" tvg-logo="CCTV-老故事.png" group-title="📺央视频道",CCTV-老故事
 http://8.134.110.147:5300/?id=lgs
 #EXTINF:-1 tvg-name="CETV1 教育综合" tvg-logo="CETV1 教育综合.png" group-title="📺CETV（中国教育电视台）",CETV-1 教育综合
-http://117.174.25.254:8188/rtp/239.0.0.51:5140
-#EXTINF:-1 tvg-name="CETV1 教育综合" tvg-logo="CETV1 教育综合.png" group-title="📺CETV（中国教育电视台）",CETV-1 教育综合
 http://111.127.156.228:51234/rtp/239.29.0.95:5000
+#EXTINF:-1 tvg-name="CETV1 教育综合" tvg-logo="CETV1 教育综合.png" group-title="📺CETV（中国教育电视台）",CETV-1 教育综合
+http://117.174.25.254:8188/rtp/239.0.0.51:5140
 #EXTINF:-1 tvg-name="CETV4 职业教育（空中课堂）" tvg-logo="CETV4 职业教育（空中课堂）.png" group-title="📺CETV（中国教育电视台）",CETV-4 职业教育（空中课堂）
 http://117.174.25.254:8188/rtp/239.0.0.98:5140
 #EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png" group-title="💰央视付费频道",CCTV-世界地理
 http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png" group-title="💰央视付费频道",CCTV-世界地理
+http://111.61.236.247:9081/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png" group-title="💰央视付费频道",CCTV-世界地理
+rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
+#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png" group-title="💰央视付费频道",CCTV-世界地理
+rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
+#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png" group-title="💰央视付费频道",CCTV-世界地理
+rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
 #EXTINF:-1 tvg-name="CGTN 国际" tvg-logo="CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
 http://8.134.110.147:5300/?id=cgtn
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="全纪实.png" group-title="☘️上海频道",全纪实
+http://139.196.214.238/rtp/239.45.3.135:5140$上海电信组播源-cache:139.196.214.238
 #EXTINF:-1 tvg-name="璧山综合" tvg-logo="璧山综合.png" group-title="☘️重庆频道",璧山综合
 http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
@@ -87,6 +97,8 @@ http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b4
 rtmp://tv.yunxya.com:1937/channellive/mingshan
 #EXTINF:-1 tvg-name="夹江新闻综合" tvg-logo="夹江新闻综合.png" group-title="☘️四川频道",夹江新闻综合
 rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
+#EXTINF:-1 tvg-name="宝兴综合" tvg-logo="宝兴综合.png" group-title="☘️四川频道",宝兴综合
+rtmp://tv.yunxya.com:1937/channellive/baoxing
 #EXTINF:-1 tvg-name="小金综合" tvg-logo="小金综合.png" group-title="☘️四川频道",小金综合
 rtmp://xjlive.xjxrmt.cn/live/xwpd
 #EXTINF:-1 tvg-name="沐川综合" tvg-logo="沐川综合.png" group-title="☘️四川频道",沐川综合
@@ -199,6 +211,8 @@ rtsp://115.85.205.19/PLTV/88888910/224/3221225485/100001000000000600000000001025
 rtmp://play.kankanlive.com/live/1680577080200944
 #EXTINF:-1 tvg-name="兵团八师石河子新闻综合" tvg-logo="兵团八师石河子新闻综合.png" group-title="☘️新疆频道",兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="奎屯哈萨克语" tvg-logo="奎屯哈萨克语.png" group-title="☘️新疆频道",奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8
 #EXTINF:-1 tvg-name="霍尔果斯综合" tvg-logo="霍尔果斯综合.png" group-title="☘️新疆频道",霍尔果斯综合
 http://117.190.118.174:9090/stream3/hegs.m3u8
 #EXTINF:-1 tvg-name="玛纳斯综合" tvg-logo="玛纳斯综合.png" group-title="☘️新疆频道",玛纳斯综合
@@ -215,20 +229,26 @@ rtmp://124.88.144.73:1935/live/xwzh
 http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
 http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+http://139.129.231.228/rtp/239.21.1.140:5002$山东电信组播源-cache:139.129.231.228
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
 http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="山东生活.png" group-title="☘️山东频道",山东生活
 http://221.2.148.205:8154/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="山东体育.png" group-title="☘️山东频道",山东体育
 http://123.168.95.21:4000/rtp/239.21.1.141:5002
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="山东文旅.png" group-title="☘️山东频道",山东文旅
+http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="山东综艺.png" group-title="☘️山东频道",山东综艺
+http://139.129.231.228/rtp/239.21.1.177:5002$山东电信组播源-cache:139.129.231.228
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="山东综艺.png" group-title="☘️山东频道",山东综艺
 http://111.14.181.15:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="济南综合" tvg-logo="济南综合.png" group-title="☘️山东频道",济南综合
 http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="济宁公共" tvg-logo="济宁公共.png" group-title="☘️山东频道",济宁公共
 http://111.14.181.15:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-name="济宁综合" tvg-logo="济宁综合.png" group-title="☘️山东频道",济宁综合
-http://111.14.181.15:9901/tsfile/live/1007_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 tvg-name="日照科教" tvg-logo="日照科教.png" group-title="☘️山东频道",日照科教
+http://139.129.231.228/rtp/239.21.1.80:5002$山东电信组播源-cache:139.129.231.228
 #EXTINF:-1 tvg-name="万荣综合" tvg-logo="万荣综合.png" group-title="☘️山西频道",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
 #EXTINF:-1 tvg-name="黎城综合" tvg-logo="黎城综合.png" group-title="☘️山西频道",黎城综合
@@ -253,12 +273,12 @@ rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 rtmp://masterpull.hljtv.com/live/dUi8b96l
 #EXTINF:-1 tvg-name="双鸭山综合" tvg-logo="双鸭山综合.png" group-title="☘️黑龙江频道",双鸭山综合
 rtmp://masterpull.hljtv.com/live/BowdCSzZ
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="动作影院.png" group-title="📹斗鱼轮播",动作影院
+http://139.129.231.228/rtp/239.21.1.123:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="喜剧影院.png" group-title="📹斗鱼轮播",喜剧影院
+http://139.129.231.228/rtp/239.21.1.122:5002$山东电信组播源-cache:139.129.231.228
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="🎬电影频道",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="嘉佳卡通.png" group-title="🪁动画频道",嘉佳卡通
-http://139.196.214.238/rtp/239.45.1.48:5140$上海电信组播源-cache:139.196.214.238
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="嘉佳卡通.png" group-title="🪁动画频道",嘉佳卡通
-http://8.134.110.147:5300/?id=jjkt
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="新动漫.png" group-title="🪁动画频道",新动漫
@@ -295,5 +315,27 @@ http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4g
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="纬来日本.png" group-title="🌊湾湾",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="劲爆体育.png" group-title="🏀体育频道",劲爆体育
+http://111.8.242.124:4095/tsfile/live/1035_1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://111.8.242.124:4095/tsfile/live/1047_1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://111.196.133.168:8012/rtp/239.3.1.164:8001
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+http://139.196.151.191/rtp/239.45.3.131:5140$上海电信组播源-cache:139.196.151.191
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.245.70/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.240.228:554/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.212.72/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.247.80/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.230.145/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.222.112:554/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.233.154/PLTV/88888888/224/3221225615/iptv7998.smil
