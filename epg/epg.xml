@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251018025315 +0800">
+<tv date="20251018083403 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -41544,6 +41544,15 @@
 	<programme channel="黑莓动画" start="20251018070000 +0800" stop="20251018090000 +0800">
 		<title lang="zh">11_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251018090000 +0800" stop="20251018093300 +0800">
+		<title lang="zh">11_初初宝贝儿歌第一季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251018093300 +0800" stop="20251018095300 +0800">
+		<title lang="zh">02_贝乐虎3D儿歌之保护身体</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251018101000 +0800" stop="20251018123900 +0800">
+		<title lang="zh">21_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -41564,6 +41573,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251018073300 +0800" stop="20251018092400 +0800">
 		<title lang="zh">长江图</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251018092400 +0800" stop="20251018105600 +0800">
+		<title lang="zh">地瓜味的冰激凌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251018105600 +0800" stop="20251018123400 +0800">
+		<title lang="zh">全职高手之巅峰荣耀</title>
 	</programme>
 	<channel id="黑龙江少儿">
 		<display-name lang="zh">黑龙江少儿</display-name>
