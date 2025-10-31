@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251031030822 +0800">
+<tv date="20251031070315 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -42175,6 +42175,18 @@
 	<programme channel="黑莓动画" start="20251031043900 +0800" stop="20251031083800 +0800">
 		<title lang="zh">11_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251031083800 +0800" stop="20251031091100 +0800">
+		<title lang="zh">11_初初宝贝儿歌第一季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251031091100 +0800" stop="20251031093200 +0800">
+		<title lang="zh">11_贝乐虎3D儿歌之保护身体</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251031093200 +0800" stop="20251031100600 +0800">
+		<title lang="zh">12_乐于帮助他人的好宝宝</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251031100600 +0800" stop="20251031130600 +0800">
+		<title lang="zh">11_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -42192,6 +42204,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251031062700 +0800" stop="20251031080300 +0800">
 		<title lang="zh">人在驴途</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251031080300 +0800" stop="20251031092700 +0800">
+		<title lang="zh">伊克巴尔之超级芯片</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251031092700 +0800" stop="20251031104700 +0800">
+		<title lang="zh">双龙记之和平契约</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251031104700 +0800" stop="20251031121500 +0800">
+		<title lang="zh">英雄无悔</title>
 	</programme>
 	<channel id="黑龙江少儿">
 		<display-name lang="zh">黑龙江少儿</display-name>
