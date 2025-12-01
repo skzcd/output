@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.18.0.2:8000/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="🕘️更新时间",2025-11-27 16:45:28
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="🕘️更新时间",2025-12-01 10:54:21
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8
@@ -391,6 +391,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV-发现之旅" tvg-logo="CCTV-发现之旅.png" group-title="📺央视频道",CCTV-发现之旅
 https://mursor.ottiptv.cc/gptv/G_FAXIANZL.m3u8
+#EXTINF:-1 tvg-name="CCTV-老故事" tvg-logo="CCTV-老故事.png" group-title="📺央视频道",CCTV-老故事
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="CCTV-老故事" tvg-logo="CCTV-老故事.png" group-title="📺央视频道",CCTV-老故事
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="📺央视频道",CHC动作电影
 https://stream1.freetv.fun/chcdong-zuo-dian-ying-24.ctv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="📺央视频道",CHC动作电影
@@ -505,6 +509,8 @@ http://tl.061833.xyz/tl/null-6
 https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 #EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="CCTV-第一剧场.png" group-title="💰央视付费频道",CCTV-第一剧场
 http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ
+#EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="CCTV-第一剧场.png" group-title="💰央视付费频道",CCTV-第一剧场
+https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="CCTV-风云剧场.png" group-title="💰央视付费频道",CCTV-风云剧场
 https://hls-gateway.vpstv.net/streams/708861.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="CCTV-风云剧场.png" group-title="💰央视付费频道",CCTV-风云剧场
@@ -523,8 +529,6 @@ http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 https://hls-gateway.vpstv.net/streams/708858.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-logo="CCTV-风云音乐.png" group-title="💰央视付费频道",CCTV-风云音乐
 http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
-#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="CCTV-世界地理.png" group-title="💰央视付费频道",CCTV-世界地理
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="CCTV-央视文化精品.png" group-title="💰央视付费频道",CCTV-央视文化精品
 https://hls-gateway.vpstv.net/streams/708832.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="CCTV-央视文化精品.png" group-title="💰央视付费频道",CCTV-央视文化精品
@@ -539,6 +543,8 @@ https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d
 https://hls-gateway.vpstv.net/streams/708859.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云足球" tvg-logo="CCTV-风云足球.png" group-title="💰央视付费频道",CCTV-风云足球
 https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8
+#EXTINF:-1 tvg-name="CCTV-风云足球" tvg-logo="CCTV-风云足球.png" group-title="💰央视付费频道",CCTV-风云足球
+https://stream1.freetv.fun/e3a6fdc9001f03c60e5c0e6145c631bb6a988a2dea9b1545f9f0a81e5b7e38df.ctv
 #EXTINF:-1 tvg-name="CCTV-高尔夫·网球" tvg-logo="CCTV-高尔夫·网球.png" group-title="💰央视付费频道",CCTV-高尔夫·网球
 https://hls-gateway.vpstv.net/streams/708857.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫·网球" tvg-logo="CCTV-高尔夫·网球.png" group-title="💰央视付费频道",CCTV-高尔夫·网球
@@ -585,6 +591,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8?
 #EXTINF:-1 tvg-name="北京卫视（BTV-1）" tvg-logo="北京卫视（BTV-1）.png" group-title="📡卫视频道",北京卫视（BTV-1）
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8??
+#EXTINF:-1 tvg-name="北京卫视（BTV-1）" tvg-logo="北京卫视（BTV-1）.png" group-title="📡卫视频道",北京卫视（BTV-1）
+https://stream1.freetv.fun/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.ctv
 #EXTINF:-1 tvg-name="东方卫视（上海卫视）" tvg-logo="东方卫视（上海卫视）.png" group-title="📡卫视频道",东方卫视（上海卫视）
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视（上海卫视）" tvg-logo="东方卫视（上海卫视）.png" group-title="📡卫视频道",东方卫视（上海卫视）
@@ -1043,6 +1051,14 @@ https://stream1.freetv.fun/159787fa1c85725d343a5097adb51da069502ad220ca826ada667
 https://migu.188766.xyz/?migutoken=09b30796526081c5ce8c41669537675b&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南都市频道" tvg-logo="河南都市频道.png" group-title="☘️河南频道",河南都市频道
 https://migu.188766.xyz/?migutoken=42d5c7cadad85eb24a65958814cc9869&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="河南都市频道.png" group-title="☘️河南频道",河南都市频道
+https://migu.188766.xyz/?migutoken=e8c88e8d5a466d45c541c51695383dc4&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="河南都市频道.png" group-title="☘️河南频道",河南都市频道
+https://migu.188766.xyz/?migutoken=3a047be4fbee3f91091f0c8d57c0710c&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="河南都市频道.png" group-title="☘️河南频道",河南都市频道
+https://migu.188766.xyz/?migutoken=d3316595d636e5ef6bbe73105e135fed&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="河南都市频道.png" group-title="☘️河南频道",河南都市频道
+https://migu.188766.xyz/?migutoken=eba1ea75b588605c8798b10bc91df156&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
 https://migu.188766.xyz/?migutoken=ba721e4f17901a54698b22073b7bc118&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
@@ -1057,6 +1073,14 @@ https://migu.188766.xyz/?migutoken=ef639bf260ed3db483540ec6d0e9da67&id=%E6%B0%91
 https://migu.188766.xyz/?migutoken=184a97f907a25feed0f82f7b1e5a81cc&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
 https://migu.188766.xyz/?migutoken=dfd2bb0023d4d99ddfc8e77013bea877&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
+https://migu.188766.xyz/?migutoken=c36047d69e6c3b423ace829e4a23ede8&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
+https://migu.188766.xyz/?migutoken=dd0868531de5f697bc42bb49d1e03713&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
+https://migu.188766.xyz/?migutoken=076ad4306f1b792439b819697753d547&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="河南民生频道.png" group-title="☘️河南频道",河南民生频道
+https://migu.188766.xyz/?migutoken=a53877810a36202f3b71fd120fa4c3be&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南法治频道" tvg-logo="河南法治频道.png" group-title="☘️河南频道",河南法治频道
 https://stream1.freetv.fun/9d3825d245bf40ffaff3321f169a1475bfe4091ee8388d4e5fd07a89a66bdb03.m3u8
 #EXTINF:-1 tvg-name="河南法治频道" tvg-logo="河南法治频道.png" group-title="☘️河南频道",河南法治频道
@@ -1747,6 +1771,14 @@ https://migu.188766.xyz/?migutoken=ed0d5269116b45a50cc24282cdeffd10&id=%E5%8C%97
 https://migu.188766.xyz/?migutoken=bec2c0ad1527efd505f338129ce18262&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="北京生活.png" group-title="☘️北京频道",北京生活
 https://migu.188766.xyz/?migutoken=309d5eaa9f007db445fb754e28f85050&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="北京生活.png" group-title="☘️北京频道",北京生活
+https://migu.188766.xyz/?migutoken=21bc01ea49d7509e33f97a8de3461479&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="北京生活.png" group-title="☘️北京频道",北京生活
+https://migu.188766.xyz/?migutoken=85c08b2c84bf3985de537be307c122b0&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="北京生活.png" group-title="☘️北京频道",北京生活
+https://migu.188766.xyz/?migutoken=cad5738021645e51d2dc32367b63a4e4&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="北京生活.png" group-title="☘️北京频道",北京生活
+https://migu.188766.xyz/?migutoken=ab2b58c82a35b9f42b58bbeafe27b735&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 #EXTINF:-1 tvg-name="北京科教" tvg-logo="北京科教.png" group-title="☘️北京频道",北京科教
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="☘️北京频道",北京财经
@@ -1767,8 +1799,22 @@ https://migu.188766.xyz/?migutoken=012bfeb0089c8e4f3fbbe49af9381f76&id=%E5%8C%97
 https://migu.188766.xyz/?migutoken=af052d72e9649d06fa317f323747afe8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="☘️北京频道",北京财经
 https://migu.188766.xyz/?migutoken=9a912c56f4e7584752a9642be68dc2db&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="☘️北京频道",北京财经
+https://migu.188766.xyz/?migutoken=74a8da938350684c8e2f1725682520e8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="☘️北京频道",北京财经
+https://migu.188766.xyz/?migutoken=c8b48496440622b303fe7d3620f1352a&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="☘️北京频道",北京财经
+https://migu.188766.xyz/?migutoken=13559808fdc6f67b730a14f091c6d4df&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="北京财经.png" group-title="☘️北京频道",北京财经
+https://migu.188766.xyz/?migutoken=d741c8c41ef6dd6d378642fd13a0ce58&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 #EXTINF:-1 tvg-name="北京青年" tvg-logo="北京青年.png" group-title="☘️北京频道",北京青年
 http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
+http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
+http://z.b.bkpcp.top/m.php?id=qcxj
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
+http://gslbserv.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="上海外语.png" group-title="☘️上海频道",上海外语
 http://z.b.bkpcp.top/m.php?id=shics
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="上海外语.png" group-title="☘️上海频道",上海外语
@@ -1811,6 +1857,8 @@ http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisd
 https://iptv.catvod.com/live.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
 https://live.chinacert.cftest5.cn/mg/?id=651632657
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="上海新闻综合.png" group-title="☘️上海频道",上海新闻综合
+https://migu.188766.xyz/?migutoken=d507e52c545186d405b3b5bdf1284908&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="上海第一财经.png" group-title="☘️上海频道",上海第一财经
 https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=7c61765857deba36348b33b70960be142ad01112a576887cba46c30e7069797b60d888f8f8dde583e0fd4fc58620a1fe2e530a64d73661591405b25881e40fcc2c1fe608d3cc0e259c8c00d297
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="上海第一财经.png" group-title="☘️上海频道",上海第一财经
@@ -1839,6 +1887,8 @@ https://migu.188766.xyz/?migutoken=513bfd7c3b6828175af7ab5ef02a90dc&id=%E4%B8%8A
 https://migu.188766.xyz/?migutoken=2dc5ff94a7e83d97d44daa632ab9ab78&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="上海第一财经.png" group-title="☘️上海频道",上海第一财经
 http://ls.qingting.fm/live/276.m3u8
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="上海第一财经.png" group-title="☘️上海频道",上海第一财经
+https://migu.188766.xyz/?migutoken=e99d072b2d021e9fa293dc581b6bedaf&id=dycj&type=sz
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="上海纪实.png" group-title="☘️上海频道",上海纪实
 https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="上海都市.png" group-title="☘️上海频道",上海都市
@@ -2023,6 +2073,8 @@ https://migu.188766.xyz/?migutoken=6223503a47abe23259d0d269683faac7&id=%E5%8D%97
 https://migu.188766.xyz/?migutoken=e41c9423ca97b70d668c703ed38a5f43&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="南京十八" tvg-logo="南京十八.png" group-title="☘️江苏频道",南京十八
 http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=2025102308014162d44288f10c4a84b8b27a5f80ee99fd&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5a6e4ed4765e04fdb8e8bd37c3607a6c&ddCalcu=c56aea627e80406e3dc47736d5be80e48fbd
+#EXTINF:-1 tvg-name="南京十八" tvg-logo="南京十八.png" group-title="☘️江苏频道",南京十八
+https://migu.188766.xyz/?migutoken=5f35e8b7e9c2de25c985e1f7a7104d6d&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="南京娱乐" tvg-logo="南京娱乐.png" group-title="☘️江苏频道",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="南京少儿.png" group-title="☘️江苏频道",南京少儿
@@ -2047,6 +2099,8 @@ https://migu.188766.xyz/?migutoken=87c932472ad8c4493d4ab5847134233f&id=%E5%8D%97
 https://migu.188766.xyz/?migutoken=9836e1b4b47bb64863a50511881e2112&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="南京教科" tvg-logo="南京教科.png" group-title="☘️江苏频道",南京教科
 http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=20251023080141d50925a1117343ecb53b23bb6266f888&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b2b216d53c7175e66065d308271343c9&ddCalcu=9bc2e3b2428310167d25830c37d157650e66
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="南京教科.png" group-title="☘️江苏频道",南京教科
+https://migu.188766.xyz/?migutoken=9ddc44ec3ae5fa08f01a2e00a263f6dd&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="南京新闻综合.png" group-title="☘️江苏频道",南京新闻综合
 https://mursor.ottiptv.cc/migu/838109047.m3u8?migutoken=fc1711b9c156db946a3c118fc27dae4c680e060dce4ac71e6daee3575118e0d40e394f66435e2a580495ab5e9c3d79668b5ed551ad777e18298343a466ce1308e398329241cfb78dcbdced39b1
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="南京新闻综合.png" group-title="☘️江苏频道",南京新闻综合
@@ -2065,6 +2119,8 @@ https://migu.188766.xyz/?migutoken=c9274a7c4b1ee1fdd7dc767636318213&id=%E5%8D%97
 https://migu.188766.xyz/?migutoken=25ab61f71860058109dad77cbc500abc&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="南京新闻综合.png" group-title="☘️江苏频道",南京新闻综合
 http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=20251023080141b90781bc871243ca9ccefdd19990364a&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=147e2c56380633b791b7bb2fc8bdccc9&ddCalcu=91c4ec72ce8d20bc85c6f328b0b673b31b97
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="南京新闻综合.png" group-title="☘️江苏频道",南京新闻综合
+https://migu.188766.xyz/?migutoken=d2a29b7d021f7a5aacff037825011336&id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="南京生活" tvg-logo="南京生活.png" group-title="☘️江苏频道",南京生活
 https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="南京生活" tvg-logo="南京生活.png" group-title="☘️江苏频道",南京生活
@@ -2097,6 +2153,8 @@ https://migu.188766.xyz/?migutoken=35842eb05633b0ed3d66e77b3b1b129c&id=%E5%8D%97
 https://iptv.catvod.com/live.php?id=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="南通新闻综合.png" group-title="☘️江苏频道",南通新闻综合
 https://live.chinacert.cftest5.cn/mg/?id=955227985
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="南通新闻综合.png" group-title="☘️江苏频道",南通新闻综合
+https://migu.188766.xyz/?migutoken=d50b91b2251625e9643b89c6f87f6773&id=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
 https://stream1.freetv.fun/yi-xing-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
@@ -2173,6 +2231,8 @@ https://stream1.freetv.fun/jiang-su-ti-yu-4.ctv
 https://migu.188766.xyz/?migutoken=0a9b4a5bbdea61549a458d098b7c5096&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="江苏体育.png" group-title="☘️江苏频道",江苏体育
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="江苏体育.png" group-title="☘️江苏频道",江苏体育
+https://migu.188766.xyz/?migutoken=ed33d1c6d08dd337cace2f0e9b638215&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="江苏公共" tvg-logo="江苏公共.png" group-title="☘️江苏频道",江苏公共
 http://iptv.666230.xyz/iptv/jsyd.php/G_JSGG
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="江苏城市.png" group-title="☘️江苏频道",江苏城市
@@ -2219,6 +2279,8 @@ https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%9
 https://live.chinacert.cftest5.cn/mg/?id=626064697
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="江苏影视.png" group-title="☘️江苏频道",江苏影视
 http://iptv.666230.xyz/iptv/jsyd.php/G_JSYS
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="江苏影视.png" group-title="☘️江苏频道",江苏影视
+https://migu.188766.xyz/?migutoken=7ef1aab64340bfb4170221992a528ef4&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="江苏教育.png" group-title="☘️江苏频道",江苏教育
 https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="江苏教育.png" group-title="☘️江苏频道",江苏教育
@@ -2239,6 +2301,8 @@ https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2
 https://live.chinacert.cftest5.cn/mg/?id=628008321
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="江苏教育.png" group-title="☘️江苏频道",江苏教育
 http://iptv.666230.xyz/iptv/jsyd.php/G_JSJY
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="江苏教育.png" group-title="☘️江苏频道",江苏教育
+https://migu.188766.xyz/?migutoken=13588adf2e1423f6cf92d6ebca7956a4&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 #EXTINF:-1 tvg-name="泗洪新闻综合" tvg-logo="泗洪新闻综合.png" group-title="☘️江苏频道",泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="泰州一套新闻综合" tvg-logo="泰州一套新闻综合.png" group-title="☘️江苏频道",泰州一套新闻综合
@@ -2281,6 +2345,8 @@ https://migu.188766.xyz/?migutoken=7f3c2bf1e20a9d364aca624f645f1e8d&id=%E6%B7%AE
 https://iptv.catvod.com/live.php?id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="淮安新闻综合.png" group-title="☘️江苏频道",淮安新闻综合
 https://live.chinacert.cftest5.cn/mg/?id=639731826
+#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="淮安新闻综合.png" group-title="☘️江苏频道",淮安新闻综合
+https://migu.188766.xyz/?migutoken=e83e14f516cd757d4b066c2ac8d30989&id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 #EXTINF:-1 tvg-name="淮阴综合" tvg-logo="淮阴综合.png" group-title="☘️江苏频道",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 #EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="溧水新闻综合.png" group-title="☘️江苏频道",溧水新闻综合
@@ -2311,6 +2377,8 @@ https://migu.188766.xyz/?migutoken=3ec1237b0eb21200b458e45cbfe40f36&id=%E6%BA%A7
 https://iptv.catvod.com/live.php?id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="溧水新闻综合.png" group-title="☘️江苏频道",溧水新闻综合
 https://live.chinacert.cftest5.cn/mg/?id=639737327
+#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="溧水新闻综合.png" group-title="☘️江苏频道",溧水新闻综合
+https://migu.188766.xyz/?migutoken=0db5c9a6ad3cd68c66cc471c1ef51eba&id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 #EXTINF:-1 tvg-name="睢宁三农" tvg-logo="睢宁三农.png" group-title="☘️江苏频道",睢宁三农
 http://iptv.666230.xyz/iptv/jsyd.php/xzsnsn
 #EXTINF:-1 tvg-name="睢宁综合" tvg-logo="睢宁综合.png" group-title="☘️江苏频道",睢宁综合
@@ -2345,38 +2413,12 @@ https://migu.188766.xyz/?migutoken=245251a5520f7bd5d5ad3407caec92b0&id=%E8%BF%9E
 https://iptv.catvod.com/live.php?id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
 https://live.chinacert.cftest5.cn/mg/?id=639731715
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
+https://migu.188766.xyz/?migutoken=b51e443964279b3b6a105993a2790531&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="靖江新闻综合.png" group-title="☘️江苏频道",靖江新闻综合
 http://ls.qingting.fm/live/23797.m3u8
-#EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
-http://tvbox6.com/tv/bfgd.php?id=282
-#EXTINF:-1 tvg-name="辽宁北方" tvg-logo="辽宁北方.png" group-title="☘️辽宁频道",辽宁北方
-https://stream1.freetv.fun/liao-zhu-bei-fang-3.m3u8
-#EXTINF:-1 tvg-name="辽宁北方" tvg-logo="辽宁北方.png" group-title="☘️辽宁频道",辽宁北方
-http://tvbox6.com/tv/bfgd.php?id=071
-#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
-https://stream1.freetv.fun/liao-zhu-ying-shi-ju-1.m3u8
-#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
-https://stream1.freetv.fun/liao-zhu-ying-shi-ju-2.m3u8
-#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
-https://stream1.freetv.fun/liao-zhu-ying-shi-ju-3.m3u8
-#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
-http://tvbox6.com/tv/bfgd.php?id=070
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="辽宁教育青少.png" group-title="☘️辽宁频道",辽宁教育青少
-https://stream1.freetv.fun/liao-zhu-jiao-yu-qing-shao-1.m3u8
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="辽宁教育青少.png" group-title="☘️辽宁频道",辽宁教育青少
-http://tvbox6.com/tv/bfgd.php?id=075
-#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
-https://stream1.freetv.fun/liao-zhu-sheng-huo-1.m3u8
-#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
-http://tvbox6.com/tv/bfgd.php?id=073
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://ls.qingting.fm/live/23797.m3u8
-#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
-https://ls.qingting.fm/live/1099/64k.m3u8
-#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
-https://stream1.freetv.fun/liao-zhu-du-shi-4.m3u8
-#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
-https://stream1.freetv.fun/liao-zhu-du-shi-5.m3u8
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="湖南都市.png" group-title="☘️湖南频道",湖南都市
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="湖南都市.png" group-title="☘️湖南频道",湖南都市
@@ -2477,6 +2519,8 @@ https://stream1.freetv.fun/hu-bei-long-shang-2.ctv
 https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="武汉二台电视剧" tvg-logo="武汉二台电视剧.png" group-title="☘️湖北频道",武汉二台电视剧
 https://stream1.freetv.fun/wu-yi-2dian-shi-ju-1.m3u8
+#EXTINF:-1 tvg-name="武汉二台电视剧" tvg-logo="武汉二台电视剧.png" group-title="☘️湖北频道",武汉二台电视剧
+https://stream1.freetv.fun/wu-yi-er-tai-dian-shi-ju-3.ctv
 #EXTINF:-1 tvg-name="武汉四台经济" tvg-logo="武汉四台经济.png" group-title="☘️湖北频道",武汉四台经济
 https://stream1.freetv.fun/wu-yi-jing-ji-1.m3u8
 #EXTINF:-1 tvg-name="武汉教育" tvg-logo="武汉教育.png" group-title="☘️湖北频道",武汉教育
@@ -2645,6 +2689,10 @@ https://migu.188766.xyz/?migutoken=5a5d68332c64c95fa128597114a1560b&id=%E9%99%95
 https://migu.188766.xyz/?migutoken=a726eca0f3fd47fd9bf3cad18c3a6832&id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
 https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
+https://migu.188766.xyz/?migutoken=69a2a57a8bf5d3d5cf97ae1aad5875e5&id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
+https://migu.188766.xyz/?migutoken=5462e2afb31260978dc3fd8e054bc76d&id=%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
 https://mursor.ottiptv.cc/migu/956909358.m3u8?migutoken=c87dc81c3a4dfa5f0241fa92cbd0f962df97329d2447bcb3ff76c61e9bb4cb6baa92af67d4f1269e95c16358b6bb2468bd5220ac0872a32bf5025673f04e39d4c4a840f29104c5af836051f154
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
@@ -2669,6 +2717,12 @@ https://migu.188766.xyz/?migutoken=dd36ac4b87cda2b5b23fe0acb00defda&id=%E9%99%95
 https://migu.188766.xyz/?migutoken=a24ec2ab19e8d85e62a6a82d730c0176&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
 https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+https://migu.188766.xyz/?migutoken=38bd6bbaf2599274320bb5ccdc38b5b8&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+https://migu.188766.xyz/?migutoken=d6652254456e9c97c1484682cc712076&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
+https://migu.188766.xyz/?migutoken=a5a78b577a4811fb41d87a5e29c6d38f&id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="陕西生活" tvg-logo="陕西生活.png" group-title="☘️陕西频道",陕西生活
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
 #EXTINF:-1 tvg-name="陕西公共" tvg-logo="陕西公共.png" group-title="☘️陕西频道",陕西公共
@@ -2785,6 +2839,14 @@ https://migu.188766.xyz/?migutoken=30c501f058d01d6c83afc5cbd547a013&id=hn_xwpd&t
 https://migu.188766.xyz/?migutoken=01106766b77f0c353ebb01658a12aed5&id=hn_xwpd&type=sz
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="☘️海南频道",海南新闻
 https://migu.188766.xyz/?migutoken=048b478143cfe9b5aac91f99a8591fba&id=hn_xwpd&type=sz
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="☘️海南频道",海南新闻
+https://migu.188766.xyz/?migutoken=d6eeff32d1f5093417d370d01db4d5ff&id=hn_xwpd&type=sz
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="☘️海南频道",海南新闻
+https://migu.188766.xyz/?migutoken=2eb2ebfc4a30475fdfc21481c15f0bd5&id=hn_xwpd&type=sz
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="☘️海南频道",海南新闻
+https://migu.188766.xyz/?migutoken=30582c84ba3d992bc78c916e1180da2d&id=hn_xwpd&type=sz
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="☘️海南频道",海南新闻
+https://migu.188766.xyz/?migutoken=9e84b5ec6e2d031b8d6f0bed0e8762a2&id=hn_xwpd&type=sz
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
 https://migu.188766.xyz/?migutoken=fa2f186303b43ba2fe89cff611b029fc&id=hn_jjpd&type=sz
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
@@ -2803,6 +2865,14 @@ https://migu.188766.xyz/?migutoken=c4020ad13dadb64e4304850303fdf195&id=hn_jjpd&t
 https://migu.188766.xyz/?migutoken=7279bad22a9be6ce734d7e4521316730&id=hn_jjpd&type=sz
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
 https://migu.188766.xyz/?migutoken=42cab033dbc9025efd8a4377df66f494&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
+https://migu.188766.xyz/?migutoken=57ae59b8ed5708ed3e49f4b30e8628dc&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
+https://migu.188766.xyz/?migutoken=284a4486171101c7acf989d20f324667&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
+https://migu.188766.xyz/?migutoken=25e65c9e5dfb5a8aa217ecdd934f3008&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
+https://migu.188766.xyz/?migutoken=a404f90886b01e697dc989241bd04024&id=hn_jjpd&type=sz
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
 https://migu.188766.xyz/?migutoken=32bbe614ebd2e507d6fac6140ef1b138&id=hn_wlpd&type=sz
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
@@ -2817,6 +2887,14 @@ https://migu.188766.xyz/?migutoken=f3b91e8fa7548b02501c7ab9cba588fa&id=hn_wlpd&t
 https://migu.188766.xyz/?migutoken=e518d267ca2aeba45e7c316ffde589e8&id=hn_wlpd&type=sz
 #EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
 https://migu.188766.xyz/?migutoken=2191f973d6d6713ac26aae6416ae84e6&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
+https://migu.188766.xyz/?migutoken=1de214d5e8699e15361d3f8a0c7c552d&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
+https://migu.188766.xyz/?migutoken=70cdcb5b1332991508d49e7aa1fc6ecd&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
+https://migu.188766.xyz/?migutoken=72715b0e63c76c7c0637bf42c1313c40&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
+https://migu.188766.xyz/?migutoken=7d2b06f293d021ba9d02f2aa4aed9481&id=hn_wlpd&type=sz
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
 https://migu.188766.xyz/?migutoken=cfe8916759de41e55d53adf74336019b&id=hn_sepd&type=sz
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
@@ -2835,6 +2913,14 @@ https://migu.188766.xyz/?migutoken=9e21097f20ed16b217e90c3c46df567f&id=hn_sepd&t
 https://migu.188766.xyz/?migutoken=c7b89da86a4471484015ffb0477b9707&id=hn_sepd&type=sz
 #EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
 https://migu.188766.xyz/?migutoken=099a8e9463c8269362616c240060470e&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
+https://migu.188766.xyz/?migutoken=f8ac76631ce61c4694c9caa2ff82d60c&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
+https://migu.188766.xyz/?migutoken=fd8c4e81ad0fb13e5f27bacd5a0f740d&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
+https://migu.188766.xyz/?migutoken=9566bb63e4a064c6ab74d1b3c299f90b&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
+https://migu.188766.xyz/?migutoken=feceee3f57c5bbeac83d19130b19884e&id=hn_sepd&type=sz
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
 https://migu.188766.xyz/?migutoken=21a39b5de0755728bca4a0201dd841f4&id=hn_ggpd&type=sz
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
@@ -2849,6 +2935,14 @@ https://migu.188766.xyz/?migutoken=ebef3d53ae838fd0544b3a74aa338fcb&id=hn_ggpd&t
 https://migu.188766.xyz/?migutoken=98d3573a10faf8f81198801e263f1d8d&id=hn_ggpd&type=sz
 #EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
 https://migu.188766.xyz/?migutoken=1e3c9e7b365e0e24dca58117ddb3b32d&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
+https://migu.188766.xyz/?migutoken=8d119e845c8be03e7517fa8538ef22d6&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
+https://migu.188766.xyz/?migutoken=d317a6730bf12a39ac0c08b408a34222&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
+https://migu.188766.xyz/?migutoken=3a0001defc7ab1ec61a30cb02e1f122b&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
+https://migu.188766.xyz/?migutoken=85489c11e38626248ccc818c11545e90&id=hn_ggpd&type=sz
 #EXTINF:-1 tvg-name="海南电视台经济" tvg-logo="海南电视台经济.png" group-title="☘️海南频道",海南电视台经济
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
 #EXTINF:-1 tvg-name="海南电视台经济" tvg-logo="海南电视台经济.png" group-title="☘️海南频道",海南电视台经济
@@ -3005,10 +3099,16 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisd
 https://migu.188766.xyz/?migutoken=83580d3d0d071e9163b5aa4d5463487b&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="山东教育.png" group-title="☘️山东频道",山东教育
 https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="山东教育.png" group-title="☘️山东频道",山东教育
+https://migu.188766.xyz/?migutoken=6ee9faa37ba24e90a2103523d13384b6&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 #EXTINF:-1 tvg-name="山东居家购物" tvg-logo="山东居家购物.png" group-title="☘️山东频道",山东居家购物
 http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="山东农科.png" group-title="☘️山东频道",山东农科
 http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
+http://livealone302.iqilu.com/iqilu/qlpd.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
+http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="山东体育.png" group-title="☘️山东频道",山东体育
 https://stream1.freetv.fun/shan-dong-ti-yu-5.m3u8
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="山东体育.png" group-title="☘️山东频道",山东体育
@@ -3237,6 +3337,8 @@ http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 https://stream1.freetv.fun/hei-long-jiang-wen-ti-9.m3u8
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="黑龙江新闻法治.png" group-title="☘️黑龙江频道",黑龙江新闻法治
 http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="黑龙江新闻法治.png" group-title="☘️黑龙江频道",黑龙江新闻法治
+https://stream1.freetv.fun/ipv6-hei-long-jiang-xin-wen-fa-zhi-8.m3u8
 #EXTINF:-1 tvg-name="黑龙江公共农业" tvg-logo="黑龙江公共农业.png" group-title="☘️黑龙江频道",黑龙江公共农业
 https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8?zheild
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="黑龙江影视.png" group-title="☘️黑龙江频道",黑龙江影视
@@ -3967,6 +4069,8 @@ https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf87158198
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
 https://stream1.freetv.fun/jing-dian-dian-ying-1.ctv
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
+https://yylunbo.ottiptv.cc/yy/1414812324
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="天映经典.png" group-title="🎬电影频道",天映经典
 https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="天映经典.png" group-title="🎬电影频道",天映经典
@@ -4031,6 +4135,8 @@ https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e
 https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="东森洋片.png" group-title="🎬电影频道",东森洋片
 https://live.catvod.com/live.php?id=ettvwestern&token=b021c67d708619f7d68449fd33bdf1719f2f3b3cb50e624ab633bce887d5bd5f%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="东森洋片.png" group-title="🎬电影频道",东森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=4360df1c0b592a6f8b1a4455c0b22755227dc2c2d7468d8e463a712912ae263c%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="东森超视.png" group-title="🎬电影频道",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="卡酷动画.png" group-title="🪁动画频道",卡酷动画
@@ -4123,8 +4229,8 @@ http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010117/1.m3u8
 https://migu.188766.xyz/?migutoken=b43933d6b1c41ad0333c84f94a2ed9db&id=hhxd&type=sz
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="炫动卡通.png" group-title="🪁动画频道",炫动卡通
 https://migu.188766.xyz/?migutoken=31bf301f64a2752ac495d33c736116b6&id=hhxd&type=sz
-#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="24H国漫热播.png" group-title="🪁动画频道",24H国漫热播
-https://www.goodiptv.club/yy/1353937086
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="炫动卡通.png" group-title="🪁动画频道",炫动卡通
+https://migu.188766.xyz/?migutoken=e92fa7ed3f4efb630f9f3b35aa2139fe&id=hhxd&type=sz
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="浙江少儿.png" group-title="🪁动画频道",浙江少儿
@@ -4233,6 +4339,10 @@ https://migu.188766.xyz/?migutoken=6849247b5680498da74be38fbff6dfd1&id=pearl_twn
 https://migu.188766.xyz/?migutoken=f7fca5fceffc820a3465098e3e42fda9&id=pearl_twn&type=dy
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="🌊港·澳",明珠台
 https://stream1.freetv.fun/ming-zhu-1.ctv
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="🌊港·澳",明珠台
+https://migu.188766.xyz/?migutoken=53cd84c7e3bfed163bd9eb1621e2e967&id=hk_mzt&type=dy
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="🌊港·澳",明珠台
+https://stream1.freetv.fun/ming-zhu-11.ctv
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="🌊港·澳",TVB星河
 http://php.jdshipin.com/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="🌊港·澳",凤凰卫视
@@ -4315,6 +4425,10 @@ https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="千禧经典" tvg-logo="千禧经典.png" group-title="🌊港·澳",千禧经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="重温经典.png" group-title="🌊港·澳",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="重温经典.png" group-title="🌊港·澳",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="澳门莲花.png" group-title="🌊港·澳",澳门莲花
 http://php.jdshipin.com/amlh.php
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="澳门莲花.png" group-title="🌊港·澳",澳门莲花
@@ -4357,6 +4471,8 @@ https://live.catvod.com/live.php?id=videolandyule&token=bdbdf4f6c60a734f7d4e9d5d
 https://live.catvod.com/live.php?id=videolandyule&token=e36fcda3f4b7e8b5909afdfb1f84325efd61edc43f87499f92b5ce17f8583f78%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🌊港·澳",纬来育乐
 https://live.catvod.com/live.php?id=videolandyule&token=82269ad67c3d297e65957fc089070360659cab93dc4d0d5f939071789a631094%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🌊港·澳",纬来育乐
+https://live.catvod.com/live.php?id=videolandyule&token=952da42ead7a9963a1aabe988efce34b0534d158856c7061541368f82f5be2b8%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 #EXTINF:-1 tvg-name="J2" tvg-logo="J2.png" group-title="🌊港·澳",J2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="三立台湾.png" group-title="🌊港·澳",三立台湾
@@ -4385,12 +4501,16 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv
 https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="靖天资讯.png" group-title="🌊港·澳",靖天资讯
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="中天新闻.png" group-title="🌊湾湾",中天新闻
+https://tv.iill.top/litv/4gtv-4gtv009
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="东森新闻.png" group-title="🌊湾湾",东森新闻
 https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="东森新闻.png" group-title="🌊湾湾",东森新闻
 https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 tvg-name="tvbs新闻" tvg-logo="tvbs新闻.png" group-title="🌊湾湾",tvbs新闻
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="寰宇新闻.png" group-title="🌊湾湾",寰宇新闻
+https://tv.iill.top/litv/litv-longturn14
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="非凡新闻.png" group-title="🌊湾湾",非凡新闻
 https://tv.iill.top/litv/4gtv-4gtv010
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="民视新闻.png" group-title="🌊湾湾",民视新闻
@@ -4399,6 +4519,8 @@ https://tv.iill.top/litv/litv-ftv13
 https://tv.iill.top/litv/4gtv-4gtv074
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="华视新闻.png" group-title="🌊湾湾",华视新闻
 https://tv.iill.top/litv/4gtv-4gtv052
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="台视新闻.png" group-title="🌊湾湾",台视新闻
+https://tv.iill.top/litv/4gtv-4gtv051
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="民视台湾.png" group-title="🌊湾湾",民视台湾
 https://tv.iill.top/litv/4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视第一" tvg-logo="民视第一.png" group-title="🌊湾湾",民视第一
@@ -4485,6 +4607,8 @@ https://live.catvod.com/live.php?id=videolandyule&token=bdbdf4f6c60a734f7d4e9d5d
 https://live.catvod.com/live.php?id=videolandyule&token=e36fcda3f4b7e8b5909afdfb1f84325efd61edc43f87499f92b5ce17f8583f78%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🌊湾湾",纬来育乐
 https://live.catvod.com/live.php?id=videolandyule&token=82269ad67c3d297e65957fc089070360659cab93dc4d0d5f939071789a631094%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🌊湾湾",纬来育乐
+https://live.catvod.com/live.php?id=videolandyule&token=952da42ead7a9963a1aabe988efce34b0534d158856c7061541368f82f5be2b8%3A1764206292%3ANTIuMTU5LjIyOS42NQ%3D%3D
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="纬来体育.png" group-title="🌊湾湾",纬来体育
 http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="纬来体育.png" group-title="🌊湾湾",纬来体育
@@ -4809,6 +4933,8 @@ https://stream1.freetv.fun/jiang-su-ti-yu-4.ctv
 https://migu.188766.xyz/?migutoken=0a9b4a5bbdea61549a458d098b7c5096&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="江苏体育.png" group-title="🏀体育频道",江苏体育
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="江苏体育.png" group-title="🏀体育频道",江苏体育
+https://migu.188766.xyz/?migutoken=ed33d1c6d08dd337cace2f0e9b638215&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
 https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
@@ -4837,6 +4963,8 @@ http://[2409:8087:1e02:20::10]/000000001000PLTV/11/224/3221226139/1.m3u8
 https://hls-gateway.vpstv.net/streams/708859.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="风云足球.png" group-title="🏀体育频道",风云足球
 https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="风云足球.png" group-title="🏀体育频道",风云足球
+https://stream1.freetv.fun/e3a6fdc9001f03c60e5c0e6145c631bb6a988a2dea9b1545f9f0a81e5b7e38df.ctv
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="魅力足球.png" group-title="🏀体育频道",魅力足球
 https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="魅力足球.png" group-title="🏀体育频道",魅力足球
