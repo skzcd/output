@@ -1,20 +1,50 @@
-ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
+2025-03-06 16:04:54,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+北京卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225557/10000100000000060000000000107337_0.smil
+北京卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225557/10000100000000060000000000107337_0.smil
+北京卫视,http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://42.225.117.174:11199/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://1.180.2.93:9901/tsfile/live/0122_1.m3u8
+北京卫视,http://110.81.206.138:49231/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://113.57.111.4:1111/tsfile/live/1017_1.m3u8
+北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
+北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
+北京卫视,http://59.39.89.130:60901/tsfile/live/0125_7.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://221.226.215.162:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://61.157.139.15:9901/tsfile/live/2388_1.m3u8
+北京卫视,http://220.164.192.48:50085/tsfile/live/0135_1.m3u8
+北京卫视,http://218.29.168.146:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://58.213.65.146:352/tsfile/live/0122_1.m3u8?key=txiptv
+北京卫视,http://58.220.211.90:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://182.37.169.94:352/tsfile/live/0122_1.m3u8
+北京卫视,http://api2.52tb.xyz/info?id=25&token=20230120rdbtgv
+北京卫视,http://60.209.125.254:352/tsfile/live/0122_1.m3u8?ace
+北京卫视,http://j.x.bkpcp.top/jx/BEIJHD
+北京卫视,http://60.214.104.110:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://58.221.214.82:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://39.164.180.36:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://58.210.168.86:10800/newlive/live/hls/19/live.m3u8
+北京卫视,http://180.213.174.225:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8#rtsp://221.7.61.147/PLTV/88888910/224/3221225557/10000100000000060000000000107337_0.smil
+北京卫视,http://218.58.136.82:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://124.116.183.146:9901/tsfile/live/0122_1.m3u8?key=txiptv
+北京卫视,http://119.36.148.115:59901/tsfile/live/0122_1.m3u8
+北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
+北京卫视,http://218.13.14.6:60050/tsfile/live/1027_1.m3u8
+北京卫视,http://61.156.228.12:8154/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://118.122.189.74:9901/tsfile/live/0122_1.m3u8
 20250509 09:21:46,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
-BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
+北京卫视,http://ak6668768.zicp.io:8830/live1032.m3u8
 关于本源(iptv365.org),https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+北京卫视,http://123.130.84.106:8154/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 (请)(地)每日一首,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
-CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+北京卫视,http://1.195.30.9:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 (贩)(已)AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+北京卫视,http://115.149.139.141:10000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 (卖)(变)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
-Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+北京卫视,http://111.160.17.2:59901/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0
