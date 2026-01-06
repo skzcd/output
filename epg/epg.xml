@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260106031446 +0800">
+<tv date="20260106051533 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -35085,6 +35085,9 @@
 	<programme channel="NewTV黑莓电影" start="20260106093300 +0800" stop="20260106105800 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="NewTV黑莓电影" start="20260106105800 +0800" stop="20260106122300 +0800">
+		<title lang="zh">唐门之神犼双雄</title>
+	</programme>
 	<channel id="黑龙江少儿">
 		<display-name lang="zh">黑龙江少儿</display-name>
 	</channel>
@@ -35601,6 +35604,12 @@
 	<programme channel="NewTV超级体育" start="20260106090000 +0800" stop="20260106113000 +0800">
 		<title lang="zh">2025/2026赛季美国职业篮球联赛- 常规赛(太阳-火箭)</title>
 	</programme>
+	<programme channel="NewTV超级体育" start="20260106113000 +0800" stop="20260106120000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-苏翊鸣获男子单板滑雪大跳台世界杯赛季总冠军</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260106120000 +0800" stop="20260106123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="NewTV精品大剧">
 		<display-name lang="zh">NewTV精品大剧</display-name>
 	</channel>
@@ -35649,6 +35658,12 @@
 	<programme channel="NewTV精品大剧" start="20260106095900 +0800" stop="20260106104500 +0800">
 		<title lang="zh">26_爱的理想生活[DVD版]</title>
 	</programme>
+	<programme channel="NewTV精品大剧" start="20260106104500 +0800" stop="20260106112000 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV精品大剧" start="20260106112000 +0800" stop="20260106120500 +0800">
+		<title lang="zh">27_爱的理想生活[DVD版]</title>
+	</programme>
 	<channel id="NewTV精品纪录">
 		<display-name lang="zh">NewTV精品纪录</display-name>
 	</channel>
@@ -35694,6 +35709,12 @@
 	<programme channel="NewTV精品纪录" start="20260106100200 +0800" stop="20260106104700 +0800">
 		<title lang="zh">47_功勋</title>
 	</programme>
+	<programme channel="NewTV精品纪录" start="20260106104700 +0800" stop="20260106112200 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV精品纪录" start="20260106112200 +0800" stop="20260106120600 +0800">
+		<title lang="zh">48_功勋</title>
+	</programme>
 	<channel id="NewTV古装剧场">
 		<display-name lang="zh">NewTV古装剧场</display-name>
 	</channel>
@@ -35738,6 +35759,12 @@
 	</programme>
 	<programme channel="NewTV古装剧场" start="20260106100500 +0800" stop="20260106105200 +0800">
 		<title lang="zh">30_折腰</title>
+	</programme>
+	<programme channel="NewTV古装剧场" start="20260106105200 +0800" stop="20260106112600 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV古装剧场" start="20260106112600 +0800" stop="20260106121600 +0800">
+		<title lang="zh">31_折腰</title>
 	</programme>
 	<channel id="NewTV军旅剧场">
 		<display-name lang="zh">NewTV军旅剧场</display-name>
@@ -35787,6 +35814,12 @@
 	<programme channel="NewTV军旅剧场" start="20260106102100 +0800" stop="20260106105600 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV军旅剧场" start="20260106105600 +0800" stop="20260106114200 +0800">
+		<title lang="zh">19_猎狼刀</title>
+	</programme>
+	<programme channel="NewTV军旅剧场" start="20260106114200 +0800" stop="20260106123200 +0800">
+		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
+	</programme>
 	<channel id="NewTV家庭剧场">
 		<display-name lang="zh">NewTV家庭剧场</display-name>
 	</channel>
@@ -35835,6 +35868,12 @@
 	<programme channel="NewTV家庭剧场" start="20260106101800 +0800" stop="20260106105300 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV家庭剧场" start="20260106105300 +0800" stop="20260106113900 +0800">
+		<title lang="zh">10_非常有喜</title>
+	</programme>
+	<programme channel="NewTV家庭剧场" start="20260106113900 +0800" stop="20260106122900 +0800">
+		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
+	</programme>
 	<channel id="NewTV爱情喜剧">
 		<display-name lang="zh">NewTV爱情喜剧</display-name>
 	</channel>
@@ -35874,6 +35913,12 @@
 	<programme channel="NewTV爱情喜剧" start="20260106100500 +0800" stop="20260106104000 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV爱情喜剧" start="20260106104000 +0800" stop="20260106112600 +0800">
+		<title lang="zh">31_幸福来敲门</title>
+	</programme>
+	<programme channel="NewTV爱情喜剧" start="20260106112600 +0800" stop="20260106121600 +0800">
+		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
+	</programme>
 	<channel id="NewTV动作电影">
 		<display-name lang="zh">NewTV动作电影</display-name>
 	</channel>
@@ -35906,6 +35951,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20260106100000 +0800" stop="20260106104800 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260106104800 +0800" stop="20260106121700 +0800">
+		<title lang="zh">珍宝大战</title>
 	</programme>
 	<channel id="NewTV怡伴健康">
 		<display-name lang="zh">NewTV怡伴健康</display-name>
@@ -35960,6 +36008,12 @@
 	</programme>
 	<programme channel="NewTV怡伴健康" start="20260106102700 +0800" stop="20260106110200 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV怡伴健康" start="20260106110200 +0800" stop="20260106114300 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
+	<programme channel="NewTV怡伴健康" start="20260106114300 +0800" stop="20260106123300 +0800">
+		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
 	</programme>
 	<channel id="NewTV军事评论">
 		<display-name lang="zh">NewTV军事评论</display-name>
@@ -36042,6 +36096,18 @@
 	<programme channel="NewTV军事评论" start="20260106101000 +0800" stop="20260106103600 +0800">
 		<title lang="zh">武夷山中的红色秘道</title>
 	</programme>
+	<programme channel="NewTV军事评论" start="20260106103600 +0800" stop="20260106110300 +0800">
+		<title lang="zh">营山的红色记忆</title>
+	</programme>
+	<programme channel="NewTV军事评论" start="20260106110300 +0800" stop="20260106112900 +0800">
+		<title lang="zh">军迷登舰 传奇“依阿华”</title>
+	</programme>
+	<programme channel="NewTV军事评论" start="20260106112900 +0800" stop="20260106115600 +0800">
+		<title lang="zh">追寻不朽的白求恩</title>
+	</programme>
+	<programme channel="NewTV军事评论" start="20260106115600 +0800" stop="20260106122300 +0800">
+		<title lang="zh">新年第一训</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -36074,6 +36140,9 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260106102300 +0800" stop="20260106114600 +0800">
 		<title lang="zh">狙击手：逆战</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260106114600 +0800" stop="20260106122100 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
 	</programme>
 	<channel id="NewTV金牌综艺">
 		<display-name lang="zh">NewTV金牌综艺</display-name>
@@ -36123,6 +36192,12 @@
 	<programme channel="NewTV金牌综艺" start="20260106095600 +0800" stop="20260106104400 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV金牌综艺" start="20260106104400 +0800" stop="20260106112700 +0800">
+		<title lang="zh">27_黎明决战</title>
+	</programme>
+	<programme channel="NewTV金牌综艺" start="20260106112700 +0800" stop="20260106121300 +0800">
+		<title lang="zh">23_勇敢的心2</title>
+	</programme>
 	<channel id="NewTV精品体育">
 		<display-name lang="zh">NewTV精品体育</display-name>
 	</channel>
@@ -36143,6 +36218,9 @@
 	</programme>
 	<programme channel="NewTV精品体育" start="20260106085700 +0800" stop="20260106111300 +0800">
 		<title lang="zh">CBA总决赛5月17日：浙江方兴渡VS北京北汽</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260106111300 +0800" stop="20260106124600 +0800">
+		<title lang="zh">2025赛季中超联赛第21轮：上海海港VS河南队</title>
 	</programme>
 	<channel id="NewTV中国功夫">
 		<display-name lang="zh">NewTV中国功夫</display-name>
@@ -36182,5 +36260,11 @@
 	</programme>
 	<programme channel="NewTV中国功夫" start="20260106101000 +0800" stop="20260106104500 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV中国功夫" start="20260106104500 +0800" stop="20260106113200 +0800">
+		<title lang="zh">22_燕云台</title>
+	</programme>
+	<programme channel="NewTV中国功夫" start="20260106113200 +0800" stop="20260106122200 +0800">
+		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
 	</programme>
 </tv>
