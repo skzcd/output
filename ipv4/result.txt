@@ -1,5 +1,5 @@
 🕘️正在更新中，刷新获取最新结果,#genre#
-2026-01-06 13:26:55,http://drive.mxmy.net:8888/udp/239.3.1.129:8008
+2026-01-07 08:16:43,http://drive.mxmy.net:8888/udp/239.3.1.129:8008
 
 📺央视频道,#genre#
 CCTV-1 综合,http://drive.mxmy.net:8888/udp/239.3.1.129:8008
@@ -7,8 +7,8 @@ CCTV-2 财经,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
 CCTV-3 综艺,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 CCTV-5 体育,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-6 电影,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
-CCTV-7 国防军事,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-7 国防军事,http://183.220.107.138:4022/rtp/239.11.0.110:5140
+CCTV-7 国防军事,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-8 电视剧,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9 纪录,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
 CCTV-11 戏曲,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
@@ -20,20 +20,20 @@ CCTV-16 奥林匹克,http://115.190.105.236:8123/live/cctv16?token=OK
 CCTV-17 农业农村,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 CCTV-17 农业农村,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 CCTV-17 农业农村,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-CHC动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-老故事,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 📺CETV（中国教育电视台）,#genre#
 CETV-1 教育综合,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-4 职业教育（空中课堂）,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 💰央视付费频道,#genre#
-CCTV-第一剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&auth=666858
 CCTV-第一剧场,http://171.83.103.119:9999/rtp/239.69.1.74:10084
+CCTV-第一剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA&auth=666858
 CCTV-风云剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA&auth=666858
 CCTV-怀旧剧场,http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
 CCTV-怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.89:10174
-CCTV-风云音乐,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CCTV-风云音乐,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+CCTV-风云音乐,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 CCTV-风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
 CCTV-世界地理,http://yp.qqqtv.top/1/api.php?id=CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&auth=666858
 CCTV-央视文化精品,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81&auth=666858
@@ -54,45 +54,34 @@ CGTN 国际,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 📡卫视频道,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
-北京卫视（BTV-1）,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视（BTV-1）,http://61.163.181.78:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视（BTV-1）,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视（上海卫视）,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 海南卫视（旅游卫视）,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 海南卫视（旅游卫视）,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-海南卫视（旅游卫视）,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 海南卫视（旅游卫视）,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+海南卫视（旅游卫视）,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 湖南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-山东卫视,http://183.220.107.138:4022/rtp/239.11.0.73:5140
-深圳卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
-四川卫视,http://171.83.103.119:9999/rtp/239.69.1.28:9808
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-重庆卫视,http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
+湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
+三沙卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227300/10000100000000060000000001945824_0.smil
+三沙卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.230.145/PLTV/88888888/224/3221226984/85722645.smil
+三沙卫视,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226984/85722645.smil
 
 ☘️河南频道,#genre#
-河南都市频道,http://1.94.31.214/php/hntv.php?id=hnds
-河南民生频道,http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-临颍综合,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
-卫辉综合,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-渑池新闻综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-温县综合,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
-焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend#http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
-焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend#http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-永城综合,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-新安新闻综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
-宜阳综合,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
-内黄综合,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
 ☘️广东频道,#genre#
-广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 
 ☘️浙江频道,#genre#
 
