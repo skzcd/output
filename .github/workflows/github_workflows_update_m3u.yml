@@ -1,0 +1,47 @@
+
+name: Update M3U URL
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 执行，可根据需要调整频率
+    # 北京时间 06:00 对应 UTC 22:00 (前一天)
+    # 北京时间 12:00 对应 UTC 04:00 (当天)
+    - cron: '0 22 * * *'
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 允许手动触发测试
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 需要写入权限以提交更改
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 获取完整历史以便检测变化（可选，若仅替换可设为1）
+
+      - name: Find and Replace URL in result.m3u
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "http://172.50.0.2/epg"
+          replace: "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/epg/"
+          path: "result.m3u"
+          regex: false
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes_detected == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Replace EPG URL in result.m3u"
+          file_pattern: "result.m3u"
