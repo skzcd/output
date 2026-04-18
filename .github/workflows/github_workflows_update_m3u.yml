@@ -1,8 +1,10 @@
-name: Update M3U URL
+
+name: Update M3U EPG URL
 
 on:
   schedule:
-    # 北京时间 06:00 (UTC 22:00) 和 12:00 (UTC 04:00)
+    # 北京时间每天 6:00 和 12:00 执行
+    # UTC 时间对应为 22:00 (前一天) 和 04:00
     - cron: '0 22 * * *'
     - cron: '0 4 * * *'
   workflow_dispatch: # 允许手动触发测试
@@ -11,7 +13,7 @@ jobs:
   update-m3u:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 需要写入权限以提交更改
+      contents: write # 赋予写入仓库权限
 
     steps:
       - name: Checkout repository
@@ -20,14 +22,13 @@ jobs:
           fetch-depth: 0
 
       - name: Find and Replace URL in all result.m3u files
-        run: |
-          # 查找所有名为 result.m3u 的文件（包括子目录）
-          # 使用 sed 进行原地替换，处理特殊字符
-          find . -name "result.m3u" -type f | while read -r file; do
-            echo "Processing: $file"
-            # 使用 | 作为分隔符避免与 URL 中的 / 冲突
-            sed -i 's|http://172.50.0.2/epg|https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/epg|g' "$file"
-          done
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "http://172.50.0.2/epg"
+          replace: "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/epg"
+          path: "." # 在当前目录及所有子目录中搜索
+          include: "**/result.m3u" # 仅匹配名为 result.m3u 的文件
+          regex: false
 
       - name: Check for changes
         id: git-check
@@ -44,4 +45,3 @@ jobs:
         with:
           commit_message: "Auto-update: Replace EPG URL in result.m3u files"
           file_pattern: "**/result.m3u"
-          commit_options: '--no-verify'
