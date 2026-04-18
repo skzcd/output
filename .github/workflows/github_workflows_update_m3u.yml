@@ -20,20 +20,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Find and Replace URL in m3u files
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: "http://172.50.0.2/epg"
-          replace: "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/epg"
-          path: "." # 在当前目录及所有子目录中搜索
-          include: "**/*.m3u" # 匹配所有 .m3u 文件，包括 hls.m3u 和 result.m3u
-          regex: false
+      - name: Replace EPG URL in all .m3u files
+        run: |
+          # 查找当前目录及子目录下所有 .m3u 文件
+          # -type f: 只查找文件
+          # -name "*.m3u": 匹配后缀
+          # -exec sed -i ...: 直接原地替换
+          # 注意：macOS 和 Linux 的 sed 语法略有不同，GitHub Actions runner 是 Ubuntu (Linux)，所以使用标准 GNU sed
+          find . -type f -name "*.m3u" -exec sed -i 's|http://172.50.0.2/epg|https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/epg|g' {} +
 
       - name: Check for changes
         id: git-check
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "Modified files:"
+            git status --porcelain
           else
             echo "changes_detected=false" >> $GITHUB_OUTPUT
           fi
@@ -42,5 +44,6 @@ jobs:
         if: steps.git-check.outputs.changes_detected == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Replace EPG URL in m3u files"
-          file_pattern: "**/*.m3u"
+          commit_message: "Auto-update: Replace EPG URL in all .m3u files"
+          # 提交所有变更的文件，或者明确指定 *.m3u
+          file_pattern: '*.m3u' 
