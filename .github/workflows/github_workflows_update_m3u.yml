@@ -27,7 +27,7 @@ jobs:
           # -name "*.m3u": 匹配后缀
           # -exec sed -i ...: 直接原地替换
           # 注意：macOS 和 Linux 的 sed 语法略有不同，GitHub Actions runner 是 Ubuntu (Linux)，所以使用标准 GNU sed
-          find . -type f -name "*.m3u" -exec sed -i 's|http://172.50.0.2/epg|https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/epg|g' {} +
+          find . -type f -name "*.m3u" -exec sed -i 's|http://172.50.0.2/epg|https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/epg|g' {} +
 
       - name: Check for changes
         id: git-check
