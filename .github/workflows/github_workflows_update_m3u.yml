@@ -26,7 +26,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "http://172.50.0.2/epg"
-          replace: "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/epg/"
+          replace: "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/epg"
           path: "result.m3u"
           regex: false
 
