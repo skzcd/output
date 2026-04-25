@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-04-25 16:53:00
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-04-25 16:56:52
 http://172.50.0.2:7777/hls/6174753103033208062.m3u8
 #EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://172.50.0.2:7777/hls/6174753103033208062.m3u8
@@ -1364,21 +1364,29 @@ http://172.50.0.2:7777/hls/832302811754164443.m3u8
 #EXTINF:-1 tvg-id="上海滩" tvg-name="上海滩" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海滩.png" group-title="🏛经典剧场",上海滩
 http://172.50.0.2:7777/hls/-7821769462574768248.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳",翡翠台
+http://172.50.0.2:7777/hls/-3863384656444166750.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳",翡翠台
+http://172.50.0.2:7777/hls/-3483063563594618050.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳",翡翠台
 http://172.50.0.2:7777/hls/5621061263662954332.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳",翡翠台
+http://172.50.0.2:7777/hls/7731679130553378000.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳",翡翠台
+http://172.50.0.2:7777/hls/5582559161214705141.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳",翡翠台
 http://172.50.0.2:7777/hls/8482104036964568056.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="🌊港·澳",明珠台
 http://172.50.0.2:7777/hls/6460410392923666826.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳",凤凰卫视
-http://172.50.0.2:7777/hls/5238191088367588457.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳",凤凰卫视
 http://172.50.0.2:7777/hls/3725770353790695352.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳",凤凰卫视
+http://172.50.0.2:7777/hls/5238191088367588457.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 http://172.50.0.2:7777/hls/-1949190016591925771.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 http://172.50.0.2:7777/hls/6068369021590398629.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳",凤凰资讯
-http://172.50.0.2:7777/hls/-349410834605505687.m3u8
+http://172.50.0.2:7777/hls/-724628556482688508.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳",凤凰资讯
 http://172.50.0.2:7777/hls/-3809705198707206771.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳",凤凰香港
@@ -1452,9 +1460,9 @@ http://172.50.0.2:7777/hls/1943030777400721317.m3u8
 #EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="🎵音乐频道",CCTV-15
 http://172.50.0.2:7777/hls/-2253102156436811325.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
-http://172.50.0.2:7777/hls/3791029335381234287.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
 http://172.50.0.2:7777/hls/-8265926979476244941.m3u8
+#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
+http://172.50.0.2:7777/hls/3791029335381234287.m3u8
 #EXTINF:-1 tvg-id="音乐之声" tvg-name="音乐之声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐之声.png" group-title="🎵音乐频道",音乐之声
 http://172.50.0.2:7777/hls/-8797645678387020328.m3u8
 #EXTINF:-1 tvg-id="潮流音乐" tvg-name="潮流音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
