@@ -1,12 +1,16 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-06-04 10:23:31
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-06-04 17:29:42
 http://172.50.0.2:7777/hls/5155712085911021425.m3u8
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4 中文国际.png" group-title="📺央视频道",CCTV-4 中文国际
 http://172.50.0.2:7777/hls/5155712085911021425.m3u8
+#EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV-11 戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11 戏曲.png" group-title="📺央视频道",CCTV-11 戏曲
+http://172.50.0.2:7777/hls/-5068026109104442916.m3u8
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13 新闻.png" group-title="📺央视频道",CCTV-13 新闻
 http://172.50.0.2:7777/hls/-7885485917846521965.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/-4461989028484316506.m3u8
+#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15 音乐.png" group-title="📺央视频道",CCTV-15 音乐
+http://172.50.0.2:7777/hls/4677165616407060445.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="📺央视频道",CHC动作电影
 http://172.50.0.2:7777/hls/5959533864594746574.m3u8
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC高清电影.png" group-title="📺央视频道",CHC高清电影
@@ -20,17 +24,17 @@ http://172.50.0.2:7777/hls/8502797886837468509.m3u8
 #EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-第一剧场.png" group-title="💰央视付费频道",CCTV-第一剧场
 http://172.50.0.2:7777/hls/-1301145439970768677.m3u8
 #EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV-央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-央视台球.png" group-title="💰央视付费频道",CCTV-央视台球
-http://172.50.0.2:7777/hls/-2071032170679152413.m3u8
-#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV-央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-央视台球.png" group-title="💰央视付费频道",CCTV-央视台球
 http://172.50.0.2:7777/hls/-8175481388433477228.m3u8
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV-央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-央视台球.png" group-title="💰央视付费频道",CCTV-央视台球
+http://172.50.0.2:7777/hls/-2071032170679152413.m3u8
 #EXTINF:-1 tvg-id="CGTN 国际" tvg-name="CGTN 国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
 http://172.50.0.2:7777/hls/1231848961143816874.m3u8
 #EXTINF:-1 tvg-id="CGTN 国际" tvg-name="CGTN 国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
 http://172.50.0.2:7777/hls/5149539222154567021.m3u8
 #EXTINF:-1 tvg-id="CGTN-Documentary（CGTN纪录）" tvg-name="CGTN-Documentary （CGTN纪录）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN-Documentary （CGTN纪录）.png" group-title="📺CGTN（中国国际电视台）",CGTN-Documentary （CGTN纪录）
-http://172.50.0.2:7777/hls/-6402597398735423122.m3u8
-#EXTINF:-1 tvg-id="CGTN-Documentary（CGTN纪录）" tvg-name="CGTN-Documentary （CGTN纪录）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN-Documentary （CGTN纪录）.png" group-title="📺CGTN（中国国际电视台）",CGTN-Documentary （CGTN纪录）
 http://172.50.0.2:7777/hls/-6695818521976845517.m3u8
+#EXTINF:-1 tvg-id="CGTN-Documentary（CGTN纪录）" tvg-name="CGTN-Documentary （CGTN纪录）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN-Documentary （CGTN纪录）.png" group-title="📺CGTN（中国国际电视台）",CGTN-Documentary （CGTN纪录）
+http://172.50.0.2:7777/hls/-6402597398735423122.m3u8
 #EXTINF:-1 tvg-id="CGTN-Documentary（CGTN纪录）" tvg-name="CGTN-Documentary （CGTN纪录）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN-Documentary （CGTN纪录）.png" group-title="📺CGTN（中国国际电视台）",CGTN-Documentary （CGTN纪录）
 http://172.50.0.2:7777/hls/1208261683734952420.m3u8
 #EXTINF:-1 tvg-id="CGTN-Español（CGTN西语）" tvg-name="CGTN-Español （CGTN西语）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN-Español （CGTN西语）.png" group-title="📺CGTN（中国国际电视台）",CGTN-Español （CGTN西语）
@@ -55,14 +59,12 @@ http://172.50.0.2:7777/hls/-3648280484792501823.m3u8
 http://172.50.0.2:7777/hls/-3767802049458708554.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://172.50.0.2:7777/hls/-3965701852051133411.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://172.50.0.2:7777/hls/-1390518169180891641.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://172.50.0.2:7777/hls/3438333487855042636.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://172.50.0.2:7777/hls/9044502673903149557.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://172.50.0.2:7777/hls/3438333487855042636.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://172.50.0.2:7777/hls/-7406491873708430065.m3u8
+http://172.50.0.2:7777/hls/6698096206241243644.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 http://172.50.0.2:7777/hls/-7452890002118011845.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
