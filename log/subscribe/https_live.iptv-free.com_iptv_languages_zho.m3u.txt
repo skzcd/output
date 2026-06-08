@@ -35,10 +35,6 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K.cn@HD" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="General",CCTV-4K (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5 (1080p)
-http://192.151.150.154/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+ (720p)
-http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 (1080p)
 http://198.204.240.250:82/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7 (720p)
@@ -425,4 +421,4 @@ http://117.156.28.119/270000001111/1110000146/index.m3u8
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD" tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="General",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
-2026-06-08 07:22:23
+2026-06-08 11:22:44
