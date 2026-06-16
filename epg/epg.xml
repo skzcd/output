@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260615235518 +0800">
+<tv date="20260616060924 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -25313,6 +25313,90 @@
 		<title lang="zh">新闻夜航</title>
 	</programme>
 	<programme channel="黑龙江都市" start="20260616235900 +0800" stop="20260617000000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<channel id="黑龙江文体">
+		<display-name lang="zh">黑龙江文体</display-name>
+	</channel>
+	<programme channel="黑龙江文体" start="20260616000000 +0800" stop="20260616003200 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616003200 +0800" stop="20260616014300 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616014300 +0800" stop="20260616024900 +0800">
+		<title lang="zh">相亲相爱</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616024900 +0800" stop="20260616033700 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616033700 +0800" stop="20260616041900 +0800">
+		<title lang="zh">劳动最光荣</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616041900 +0800" stop="20260616054900 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616054900 +0800" stop="20260616063000 +0800">
+		<title lang="zh">驿站</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616063000 +0800" stop="20260616075800 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616075800 +0800" stop="20260616081800 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616081800 +0800" stop="20260616084400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616084400 +0800" stop="20260616092500 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616092500 +0800" stop="20260616094400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616094400 +0800" stop="20260616095400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616095400 +0800" stop="20260616103600 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616103600 +0800" stop="20260616110000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616110000 +0800" stop="20260616114000 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616114000 +0800" stop="20260616135400 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616135400 +0800" stop="20260616141500 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616141500 +0800" stop="20260616151600 +0800">
+		<title lang="zh">相亲相爱</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616151600 +0800" stop="20260616160600 +0800">
+		<title lang="zh">健康读书会</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616160600 +0800" stop="20260616180000 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616180000 +0800" stop="20260616195400 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616195400 +0800" stop="20260616210800 +0800">
+		<title lang="zh">相亲相爱</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616210800 +0800" stop="20260616224200 +0800">
+		<title lang="zh">快乐POKER派</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616224200 +0800" stop="20260616231400 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616231400 +0800" stop="20260616235900 +0800">
+		<title lang="zh">相亲相爱</title>
+	</programme>
+	<programme channel="黑龙江文体" start="20260616235900 +0800" stop="20260617000000 +0800">
 		<title lang="zh">结束</title>
 	</programme>
 	<channel id="黑龙江影视">
