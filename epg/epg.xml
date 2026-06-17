@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260616235951 +0800">
+<tv date="20260617061048 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -17879,7 +17879,7 @@
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
 	<programme channel="嘉佳卡通" start="20260617000000 +0800" stop="20260617000500 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(19)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="嘉佳卡通" start="20260617000500 +0800" stop="20260617001500 +0800">
 		<title lang="zh">巴啦啦小魔仙之曜星守护者Ⅱ(1)</title>
@@ -20812,515 +20812,197 @@
 	<channel id="浙江少儿">
 		<display-name lang="zh">浙江少儿</display-name>
 	</channel>
-	<programme channel="浙江少儿" start="20260617000000 +0800" stop="20260617000716 +0800">
-		<title lang="zh">公益广告5月21日版</title>
+	<programme channel="浙江少儿" start="20260617000000 +0800" stop="20260617001700 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(18)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617000716 +0800" stop="20260617002013 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划18</title>
+	<programme channel="浙江少儿" start="20260617001700 +0800" stop="20260617003500 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(19)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617002013 +0800" stop="20260617002433 +0800">
-		<title lang="zh">公益广告5月21日版</title>
+	<programme channel="浙江少儿" start="20260617003500 +0800" stop="20260617005200 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(20)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617002433 +0800" stop="20260617003730 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划19</title>
+	<programme channel="浙江少儿" start="20260617005200 +0800" stop="20260617011000 +0800">
+		<title lang="zh">少年师爷之宋词小神童(4)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617003730 +0800" stop="20260617004150 +0800">
-		<title lang="zh">公益广告5月21日版</title>
+	<programme channel="浙江少儿" start="20260617011000 +0800" stop="20260617012900 +0800">
+		<title lang="zh">少年师爷之宋词小神童(5)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617004150 +0800" stop="20260617005447 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划20</title>
+	<programme channel="浙江少儿" start="20260617012900 +0800" stop="20260617014500 +0800">
+		<title lang="zh">少年师爷之宋词小神童(6)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617005447 +0800" stop="20260617005907 +0800">
-		<title lang="zh">公益广告5月21日版</title>
+	<programme channel="浙江少儿" start="20260617014500 +0800" stop="20260617060600 +0800">
+		<title lang="zh">少年师爷之宋词小神童(7)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617005907 +0800" stop="20260617011319 +0800">
-		<title lang="zh">少年师爷之宋词小神童4</title>
+	<programme channel="浙江少儿" start="20260617060600 +0800" stop="20260617062000 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(19)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617011319 +0800" stop="20260617011702 +0800">
-		<title lang="zh">公益广告5月21日版</title>
+	<programme channel="浙江少儿" start="20260617062000 +0800" stop="20260617063600 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(20)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617011702 +0800" stop="20260617013131 +0800">
-		<title lang="zh">少年师爷之宋词小神童5</title>
+	<programme channel="浙江少儿" start="20260617063600 +0800" stop="20260617065200 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(21)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617013131 +0800" stop="20260617014542 +0800">
-		<title lang="zh">少年师爷之宋词小神童6</title>
+	<programme channel="浙江少儿" start="20260617065200 +0800" stop="20260617070600 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(22)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617014542 +0800" stop="20260617020000 +0800">
-		<title lang="zh">少年师爷之宋词小神童7</title>
+	<programme channel="浙江少儿" start="20260617070600 +0800" stop="20260617072200 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(23)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617020000 +0800" stop="20260617060000 +0800">
-		<title lang="zh">机器检修</title>
+	<programme channel="浙江少儿" start="20260617072200 +0800" stop="20260617075500 +0800">
+		<title lang="zh">海天雄鹰(36)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617060000 +0800" stop="20260617060140 +0800">
-		<title lang="zh">广告1</title>
+	<programme channel="浙江少儿" start="20260617075500 +0800" stop="20260617081100 +0800">
+		<title lang="zh">少年师爷之宋词小神童(8)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617060140 +0800" stop="20260617060600 +0800">
-		<title lang="zh">公益广告5月21日版</title>
+	<programme channel="浙江少儿" start="20260617081100 +0800" stop="20260617082700 +0800">
+		<title lang="zh">少年师爷之宋词小神童(9)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617060600 +0800" stop="20260617061857 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划19</title>
+	<programme channel="浙江少儿" start="20260617082700 +0800" stop="20260617084500 +0800">
+		<title lang="zh">少年师爷之宋词小神童(10)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617061857 +0800" stop="20260617062037 +0800">
-		<title lang="zh">广告2</title>
+	<programme channel="浙江少儿" start="20260617084500 +0800" stop="20260617090200 +0800">
+		<title lang="zh">少年师爷之宋词小神童(11)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617062037 +0800" stop="20260617063334 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划20</title>
+	<programme channel="浙江少儿" start="20260617090200 +0800" stop="20260617092000 +0800">
+		<title lang="zh">少年师爷之宋词小神童(12)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617063334 +0800" stop="20260617063514 +0800">
-		<title lang="zh">广告3</title>
+	<programme channel="浙江少儿" start="20260617092000 +0800" stop="20260617093500 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(19)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617063514 +0800" stop="20260617064814 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划21</title>
+	<programme channel="浙江少儿" start="20260617093500 +0800" stop="20260617095000 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(20)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617064814 +0800" stop="20260617064914 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
+	<programme channel="浙江少儿" start="20260617095000 +0800" stop="20260617100500 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(21)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617064914 +0800" stop="20260617065054 +0800">
-		<title lang="zh">广告4</title>
+	<programme channel="浙江少儿" start="20260617100500 +0800" stop="20260617103700 +0800">
+		<title lang="zh">海天雄鹰(37)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617065054 +0800" stop="20260617070355 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划22</title>
+	<programme channel="浙江少儿" start="20260617103700 +0800" stop="20260617111000 +0800">
+		<title lang="zh">海天雄鹰(38)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617070355 +0800" stop="20260617070535 +0800">
-		<title lang="zh">广告1</title>
+	<programme channel="浙江少儿" start="20260617111000 +0800" stop="20260617114100 +0800">
+		<title lang="zh">海天雄鹰(39)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617070535 +0800" stop="20260617071833 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划23</title>
+	<programme channel="浙江少儿" start="20260617114100 +0800" stop="20260617121500 +0800">
+		<title lang="zh">海天雄鹰(40)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617071833 +0800" stop="20260617072003 +0800">
-		<title lang="zh">超高清公益广告</title>
+	<programme channel="浙江少儿" start="20260617121500 +0800" stop="20260617123200 +0800">
+		<title lang="zh">少年师爷之宋词小神童(8)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617072003 +0800" stop="20260617072143 +0800">
-		<title lang="zh">广告2</title>
+	<programme channel="浙江少儿" start="20260617123200 +0800" stop="20260617124800 +0800">
+		<title lang="zh">少年师爷之宋词小神童(9)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617072143 +0800" stop="20260617075143 +0800">
-		<title lang="zh">海天雄鹰36</title>
+	<programme channel="浙江少儿" start="20260617124800 +0800" stop="20260617130500 +0800">
+		<title lang="zh">少年师爷之宋词小神童(10)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617075143 +0800" stop="20260617075323 +0800">
-		<title lang="zh">广告3</title>
+	<programme channel="浙江少儿" start="20260617130500 +0800" stop="20260617132200 +0800">
+		<title lang="zh">少年师爷之宋词小神童(11)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617075323 +0800" stop="20260617080735 +0800">
-		<title lang="zh">少年师爷之宋词小神童8</title>
+	<programme channel="浙江少儿" start="20260617132200 +0800" stop="20260617135400 +0800">
+		<title lang="zh">海天雄鹰(41)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617080735 +0800" stop="20260617080822 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
+	<programme channel="浙江少儿" start="20260617135400 +0800" stop="20260617142600 +0800">
+		<title lang="zh">海天雄鹰(42)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617080822 +0800" stop="20260617081002 +0800">
-		<title lang="zh">广告4</title>
+	<programme channel="浙江少儿" start="20260617142600 +0800" stop="20260617150000 +0800">
+		<title lang="zh">海天雄鹰(43)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617081002 +0800" stop="20260617082423 +0800">
-		<title lang="zh">少年师爷之宋词小神童9</title>
+	<programme channel="浙江少儿" start="20260617150000 +0800" stop="20260617153200 +0800">
+		<title lang="zh">海天雄鹰(44)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617082423 +0800" stop="20260617082609 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
+	<programme channel="浙江少儿" start="20260617153200 +0800" stop="20260617160400 +0800">
+		<title lang="zh">海天雄鹰(45)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617082609 +0800" stop="20260617082749 +0800">
-		<title lang="zh">广告1</title>
+	<programme channel="浙江少儿" start="20260617160400 +0800" stop="20260617161900 +0800">
+		<title lang="zh">梦幻镇之成长日记(100)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617082749 +0800" stop="20260617084206 +0800">
-		<title lang="zh">少年师爷之宋词小神童10</title>
+	<programme channel="浙江少儿" start="20260617161900 +0800" stop="20260617163300 +0800">
+		<title lang="zh">梦幻镇之成长日记(101)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617084206 +0800" stop="20260617084404 +0800">
-		<title lang="zh">少儿宣传片22026001</title>
+	<programme channel="浙江少儿" start="20260617163300 +0800" stop="20260617164700 +0800">
+		<title lang="zh">梦幻镇之成长日记(102)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617084404 +0800" stop="20260617084544 +0800">
-		<title lang="zh">广告2</title>
+	<programme channel="浙江少儿" start="20260617164700 +0800" stop="20260617165900 +0800">
+		<title lang="zh">小师爷中华游学记Ⅰ(5)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617084544 +0800" stop="20260617090001 +0800">
-		<title lang="zh">少年师爷之宋词小神童11</title>
+	<programme channel="浙江少儿" start="20260617165900 +0800" stop="20260617171000 +0800">
+		<title lang="zh">小师爷中华游学记Ⅰ(6)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617090001 +0800" stop="20260617090048 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
+	<programme channel="浙江少儿" start="20260617171000 +0800" stop="20260617172500 +0800">
+		<title lang="zh">带你看中国Ⅱ(19)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617090048 +0800" stop="20260617090228 +0800">
-		<title lang="zh">广告3</title>
+	<programme channel="浙江少儿" start="20260617172500 +0800" stop="20260617174100 +0800">
+		<title lang="zh">带你看中国Ⅱ(20)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617090228 +0800" stop="20260617091654 +0800">
-		<title lang="zh">少年师爷之宋词小神童12</title>
+	<programme channel="浙江少儿" start="20260617174100 +0800" stop="20260617175600 +0800">
+		<title lang="zh">宁德山海奇遇记蓝色牧场(5)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617091654 +0800" stop="20260617091834 +0800">
-		<title lang="zh">国乐无双88止</title>
+	<programme channel="浙江少儿" start="20260617175600 +0800" stop="20260617180800 +0800">
+		<title lang="zh">奶龙之奇妙冒险(39)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617091834 +0800" stop="20260617093131 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划19</title>
+	<programme channel="浙江少儿" start="20260617180800 +0800" stop="20260617182100 +0800">
+		<title lang="zh">奶龙之奇妙冒险(40)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617093131 +0800" stop="20260617093218 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
+	<programme channel="浙江少儿" start="20260617182100 +0800" stop="20260617183000 +0800">
+		<title lang="zh">梦宝奇游记(1)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617093218 +0800" stop="20260617093358 +0800">
-		<title lang="zh">广告1</title>
+	<programme channel="浙江少儿" start="20260617183000 +0800" stop="20260617184000 +0800">
+		<title lang="zh">梦宝奇游记(2)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617093358 +0800" stop="20260617094655 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划20</title>
+	<programme channel="浙江少儿" start="20260617184000 +0800" stop="20260617185000 +0800">
+		<title lang="zh">梦宝奇游记(3)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617094655 +0800" stop="20260617094835 +0800">
-		<title lang="zh">广告2</title>
+	<programme channel="浙江少儿" start="20260617185000 +0800" stop="20260617185900 +0800">
+		<title lang="zh">梦宝奇游记(4)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617094835 +0800" stop="20260617100135 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划21</title>
+	<programme channel="浙江少儿" start="20260617185900 +0800" stop="20260617191400 +0800">
+		<title lang="zh">乐比大冒险Ⅰ(95)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617100135 +0800" stop="20260617100220 +0800">
-		<title lang="zh">超高清公益广告</title>
+	<programme channel="浙江少儿" start="20260617191400 +0800" stop="20260617193000 +0800">
+		<title lang="zh">乐比大冒险Ⅰ(96)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617100220 +0800" stop="20260617100400 +0800">
-		<title lang="zh">广告3</title>
+	<programme channel="浙江少儿" start="20260617193000 +0800" stop="20260617194400 +0800">
+		<title lang="zh">乐比大冒险Ⅰ(97)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617100400 +0800" stop="20260617103400 +0800">
-		<title lang="zh">海天雄鹰37</title>
+	<programme channel="浙江少儿" start="20260617194400 +0800" stop="20260617200000 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(18)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617103400 +0800" stop="20260617103540 +0800">
-		<title lang="zh">广告4</title>
+	<programme channel="浙江少儿" start="20260617200000 +0800" stop="20260617201500 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(19)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617103540 +0800" stop="20260617110540 +0800">
-		<title lang="zh">海天雄鹰38</title>
+	<programme channel="浙江少儿" start="20260617201500 +0800" stop="20260617203000 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(20)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617110540 +0800" stop="20260617110650 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
+	<programme channel="浙江少儿" start="20260617203000 +0800" stop="20260617204600 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(21)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617110650 +0800" stop="20260617110830 +0800">
-		<title lang="zh">广告1</title>
+	<programme channel="浙江少儿" start="20260617204600 +0800" stop="20260617210200 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(22)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617110830 +0800" stop="20260617113830 +0800">
-		<title lang="zh">海天雄鹰39</title>
+	<programme channel="浙江少儿" start="20260617210200 +0800" stop="20260617211900 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(23)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617113830 +0800" stop="20260617114016 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
+	<programme channel="浙江少儿" start="20260617211900 +0800" stop="20260617213400 +0800">
+		<title lang="zh">梦幻镇之成长日记(100)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617114016 +0800" stop="20260617114156 +0800">
-		<title lang="zh">广告2</title>
+	<programme channel="浙江少儿" start="20260617213400 +0800" stop="20260617214800 +0800">
+		<title lang="zh">梦幻镇之成长日记(101)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617114156 +0800" stop="20260617121156 +0800">
-		<title lang="zh">海天雄鹰40</title>
+	<programme channel="浙江少儿" start="20260617214800 +0800" stop="20260617220200 +0800">
+		<title lang="zh">梦幻镇之成长日记(102)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617121156 +0800" stop="20260617121354 +0800">
-		<title lang="zh">少儿宣传片22026001</title>
+	<programme channel="浙江少儿" start="20260617220200 +0800" stop="20260617223700 +0800">
+		<title lang="zh">大海道(9)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617121354 +0800" stop="20260617121534 +0800">
-		<title lang="zh">广告3</title>
+	<programme channel="浙江少儿" start="20260617223700 +0800" stop="20260617230900 +0800">
+		<title lang="zh">大海道(10)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617121534 +0800" stop="20260617122946 +0800">
-		<title lang="zh">少年师爷之宋词小神童8</title>
+	<programme channel="浙江少儿" start="20260617230900 +0800" stop="20260617234300 +0800">
+		<title lang="zh">大海道(11)</title>
 	</programme>
-	<programme channel="浙江少儿" start="20260617122946 +0800" stop="20260617123033 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617123033 +0800" stop="20260617124454 +0800">
-		<title lang="zh">少年师爷之宋词小神童9</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617124454 +0800" stop="20260617124634 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617124634 +0800" stop="20260617130051 +0800">
-		<title lang="zh">少年师爷之宋词小神童10</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617130051 +0800" stop="20260617130231 +0800">
-		<title lang="zh">国乐无双88止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617130231 +0800" stop="20260617130411 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617130411 +0800" stop="20260617131828 +0800">
-		<title lang="zh">少年师爷之宋词小神童11</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617131828 +0800" stop="20260617131941 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617131941 +0800" stop="20260617132121 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617132121 +0800" stop="20260617135121 +0800">
-		<title lang="zh">海天雄鹰41</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617135121 +0800" stop="20260617135307 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617135307 +0800" stop="20260617142307 +0800">
-		<title lang="zh">海天雄鹰42</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617142307 +0800" stop="20260617142354 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617142354 +0800" stop="20260617142534 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617142534 +0800" stop="20260617145534 +0800">
-		<title lang="zh">海天雄鹰43</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617145534 +0800" stop="20260617145714 +0800">
-		<title lang="zh">国乐无双88止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617145714 +0800" stop="20260617145854 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617145854 +0800" stop="20260617152854 +0800">
-		<title lang="zh">海天雄鹰44</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617152854 +0800" stop="20260617152934 +0800">
-		<title lang="zh">奥运冠军禁毒反兴奋剂游泳张雨霏篇</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617152934 +0800" stop="20260617153114 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617153114 +0800" stop="20260617160114 +0800">
-		<title lang="zh">海天雄鹰45</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617160114 +0800" stop="20260617160254 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617160254 +0800" stop="20260617161453 +0800">
-		<title lang="zh">梦幻镇之成长日记100</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617161453 +0800" stop="20260617161623 +0800">
-		<title lang="zh">超高清公益广告</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617161623 +0800" stop="20260617161803 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617161803 +0800" stop="20260617163002 +0800">
-		<title lang="zh">梦幻镇之成长日记101</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617163002 +0800" stop="20260617163142 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617163142 +0800" stop="20260617164341 +0800">
-		<title lang="zh">梦幻镇之成长日记102</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617164341 +0800" stop="20260617164428 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617164428 +0800" stop="20260617164608 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617164608 +0800" stop="20260617165602 +0800">
-		<title lang="zh">小师爷中华游学记第一季5</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617165602 +0800" stop="20260617165748 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617165748 +0800" stop="20260617165928 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617165928 +0800" stop="20260617170931 +0800">
-		<title lang="zh">小师爷中华游学记第一季6</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617170931 +0800" stop="20260617171111 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617171111 +0800" stop="20260617172411 +0800">
-		<title lang="zh">新大头儿子和小头爸爸带你看中国19</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617172411 +0800" stop="20260617172551 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617172551 +0800" stop="20260617173851 +0800">
-		<title lang="zh">新大头儿子和小头爸爸带你看中国20</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617173851 +0800" stop="20260617174031 +0800">
-		<title lang="zh">国乐无双88止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617174031 +0800" stop="20260617174211 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617174211 +0800" stop="20260617175512 +0800">
-		<title lang="zh">宁德山海奇遇记蓝色牧场5</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617175512 +0800" stop="20260617175652 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617175652 +0800" stop="20260617180613 +0800">
-		<title lang="zh">奶龙之奇妙冒险39</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617180613 +0800" stop="20260617180643 +0800">
-		<title lang="zh">建行高考志愿填报宣69629</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617180643 +0800" stop="20260617180823 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617180823 +0800" stop="20260617181752 +0800">
-		<title lang="zh">奶龙之奇妙冒险40</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617181752 +0800" stop="20260617181950 +0800">
-		<title lang="zh">少儿宣传片22026001</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617181950 +0800" stop="20260617182130 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617182130 +0800" stop="20260617182829 +0800">
-		<title lang="zh">梦宝奇游记1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617182829 +0800" stop="20260617182939 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617182939 +0800" stop="20260617183119 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617183119 +0800" stop="20260617183818 +0800">
-		<title lang="zh">梦宝奇游记2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617183818 +0800" stop="20260617183858 +0800">
-		<title lang="zh">奥运冠军禁毒反兴奋剂游泳张雨霏篇</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617183858 +0800" stop="20260617184038 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617184038 +0800" stop="20260617184737 +0800">
-		<title lang="zh">梦宝奇游记3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617184737 +0800" stop="20260617184902 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617184902 +0800" stop="20260617185042 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617185042 +0800" stop="20260617185741 +0800">
-		<title lang="zh">梦宝奇游记4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617185741 +0800" stop="20260617185828 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617185828 +0800" stop="20260617190008 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617190008 +0800" stop="20260617190508 +0800">
-		<title lang="zh">乐比大冒险第一季95</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617190508 +0800" stop="20260617191238 +0800">
-		<title lang="zh">建行高考志愿填报宣69629</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617191238 +0800" stop="20260617191308 +0800">
-		<title lang="zh">建行硬广69629</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617191308 +0800" stop="20260617191448 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617191448 +0800" stop="20260617192648 +0800">
-		<title lang="zh">乐比大冒险第一季96</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617192648 +0800" stop="20260617192834 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617192834 +0800" stop="20260617193014 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617193014 +0800" stop="20260617194214 +0800">
-		<title lang="zh">乐比大冒险第一季97</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617194214 +0800" stop="20260617194327 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617194327 +0800" stop="20260617194507 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617194507 +0800" stop="20260617195804 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划18</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617195804 +0800" stop="20260617195851 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617195851 +0800" stop="20260617200031 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617200031 +0800" stop="20260617201328 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划19</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617201328 +0800" stop="20260617201358 +0800">
-		<title lang="zh">建行高考志愿填报宣69629</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617201358 +0800" stop="20260617201544 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617201544 +0800" stop="20260617201724 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617201724 +0800" stop="20260617203021 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划20</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617203021 +0800" stop="20260617203051 +0800">
-		<title lang="zh">建行硬广69629</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617203051 +0800" stop="20260617203231 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617203231 +0800" stop="20260617204531 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划21</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617204531 +0800" stop="20260617204711 +0800">
-		<title lang="zh">国乐无双88止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617204711 +0800" stop="20260617204851 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617204851 +0800" stop="20260617210152 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划22</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617210152 +0800" stop="20260617210239 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617210239 +0800" stop="20260617210419 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617210419 +0800" stop="20260617211717 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划23</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617211717 +0800" stop="20260617211747 +0800">
-		<title lang="zh">建行高考志愿填报宣69629</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617211747 +0800" stop="20260617211945 +0800">
-		<title lang="zh">少儿宣传片22026001</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617211945 +0800" stop="20260617212125 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617212125 +0800" stop="20260617213324 +0800">
-		<title lang="zh">梦幻镇之成长日记100</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617213324 +0800" stop="20260617213449 +0800">
-		<title lang="zh">奔跑吧14宣424</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617213449 +0800" stop="20260617213629 +0800">
-		<title lang="zh">广告4</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617213629 +0800" stop="20260617214828 +0800">
-		<title lang="zh">梦幻镇之成长日记101</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617214828 +0800" stop="20260617214915 +0800">
-		<title lang="zh">第22届中国国际动漫节宣修改版622止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617214915 +0800" stop="20260617215055 +0800">
-		<title lang="zh">广告1</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617215055 +0800" stop="20260617220254 +0800">
-		<title lang="zh">梦幻镇之成长日记102</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617220254 +0800" stop="20260617220440 +0800">
-		<title lang="zh">2025年度浙江骄傲宣621止</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617220440 +0800" stop="20260617220620 +0800">
-		<title lang="zh">广告2</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617220620 +0800" stop="20260617223620 +0800">
-		<title lang="zh">大海道9</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617223620 +0800" stop="20260617223905 +0800">
-		<title lang="zh">禁毒公益广告</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617223905 +0800" stop="20260617224045 +0800">
-		<title lang="zh">广告3</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617224045 +0800" stop="20260617231045 +0800">
-		<title lang="zh">大海道10</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617231045 +0800" stop="20260617231320 +0800">
-		<title lang="zh">禁毒公益广告</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617231320 +0800" stop="20260617234320 +0800">
-		<title lang="zh">大海道11</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617234320 +0800" stop="20260617234740 +0800">
-		<title lang="zh">公益广告5月21日版</title>
-	</programme>
-	<programme channel="浙江少儿" start="20260617234740 +0800" stop="20260617235959 +0800">
-		<title lang="zh">开心超人联盟之勇敢之城2超人计划20</title>
+	<programme channel="浙江少儿" start="20260617234300 +0800" stop="20260617235900 +0800">
+		<title lang="zh">开心超人联盟之勇敢之城Ⅱ(20)</title>
 	</programme>
 	<channel id="浙江国际">
 		<display-name lang="zh">浙江国际</display-name>
@@ -25144,6 +24826,81 @@
 	<programme channel="海南少儿" start="20260617223000 +0800" stop="20260617235959 +0800">
 		<title lang="zh">乐比大冒险1</title>
 	</programme>
+	<channel id="黑龙江少儿">
+		<display-name lang="zh">黑龙江少儿</display-name>
+	</channel>
+	<programme channel="黑龙江少儿" start="20260617000000 +0800" stop="20260617000200 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617000200 +0800" stop="20260617003800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617003800 +0800" stop="20260617050000 +0800">
+		<title lang="zh">测试图</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617050000 +0800" stop="20260617063000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617063000 +0800" stop="20260617070100 +0800">
+		<title lang="zh">了不起的少年</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617070100 +0800" stop="20260617082200 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617082200 +0800" stop="20260617103400 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617103400 +0800" stop="20260617111600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617111600 +0800" stop="20260617115700 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617115700 +0800" stop="20260617123800 +0800">
+		<title lang="zh">健康心连心</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617123800 +0800" stop="20260617132000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617132000 +0800" stop="20260617140100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617140100 +0800" stop="20260617144300 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617144300 +0800" stop="20260617152500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617152500 +0800" stop="20260617160100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617160100 +0800" stop="20260617164200 +0800">
+		<title lang="zh">健康心连心</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617164200 +0800" stop="20260617180000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617180000 +0800" stop="20260617183100 +0800">
+		<title lang="zh">了不起的少年</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617183100 +0800" stop="20260617195400 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617195400 +0800" stop="20260617213000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617213000 +0800" stop="20260617220000 +0800">
+		<title lang="zh">了不起的少年</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617220000 +0800" stop="20260617232000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617232000 +0800" stop="20260617235900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260617235900 +0800" stop="20260618000000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
 	<channel id="黑龙江新闻法治">
 		<display-name lang="zh">黑龙江新闻法治</display-name>
 	</channel>
@@ -25217,6 +24974,126 @@
 		<title lang="zh">新闻在线</title>
 	</programme>
 	<programme channel="黑龙江新闻法治" start="20260617235900 +0800" stop="20260617235959 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<channel id="黑龙江都市">
+		<display-name lang="zh">黑龙江都市</display-name>
+	</channel>
+	<programme channel="黑龙江都市" start="20260617000000 +0800" stop="20260617002100 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617002100 +0800" stop="20260617010300 +0800">
+		<title lang="zh">天下夜航</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617010300 +0800" stop="20260617041100 +0800">
+		<title lang="zh">测试图</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617041100 +0800" stop="20260617044000 +0800">
+		<title lang="zh">全省新闻联播</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617044000 +0800" stop="20260617052000 +0800">
+		<title lang="zh">幸福私房菜</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617052000 +0800" stop="20260617060100 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617060100 +0800" stop="20260617062000 +0800">
+		<title lang="zh">真相</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617062000 +0800" stop="20260617075000 +0800">
+		<title lang="zh">新闻夜航</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617075000 +0800" stop="20260617080100 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617080100 +0800" stop="20260617082900 +0800">
+		<title lang="zh">夜航说法</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617082900 +0800" stop="20260617085000 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617085000 +0800" stop="20260617091500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617091500 +0800" stop="20260617094500 +0800">
+		<title lang="zh">健康读书会</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617094500 +0800" stop="20260617100200 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617100200 +0800" stop="20260617102000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617102000 +0800" stop="20260617110000 +0800">
+		<title lang="zh">健康心说</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617110000 +0800" stop="20260617112400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617112400 +0800" stop="20260617120500 +0800">
+		<title lang="zh">健康心连心</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617120500 +0800" stop="20260617123000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617123000 +0800" stop="20260617131100 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617131100 +0800" stop="20260617132700 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617132700 +0800" stop="20260617140800 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617140800 +0800" stop="20260617141900 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617141900 +0800" stop="20260617143900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617143900 +0800" stop="20260617145000 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617145000 +0800" stop="20260617151100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617151100 +0800" stop="20260617151900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617151900 +0800" stop="20260617160000 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617160000 +0800" stop="20260617163800 +0800">
+		<title lang="zh">夜航说法</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617163800 +0800" stop="20260617171800 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617171800 +0800" stop="20260617180000 +0800">
+		<title lang="zh">真相</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617180000 +0800" stop="20260617193000 +0800">
+		<title lang="zh">新闻夜航</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617193000 +0800" stop="20260617202600 +0800">
+		<title lang="zh">天下夜航</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617202600 +0800" stop="20260617210000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617210000 +0800" stop="20260617214500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617214500 +0800" stop="20260617221400 +0800">
+		<title lang="zh">夜航说法</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617221400 +0800" stop="20260617225500 +0800">
+		<title lang="zh">幸福私房菜</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617225500 +0800" stop="20260617235900 +0800">
+		<title lang="zh">新闻夜航</title>
+	</programme>
+	<programme channel="黑龙江都市" start="20260617235900 +0800" stop="20260618000000 +0800">
 		<title lang="zh">结束</title>
 	</programme>
 	<channel id="黑龙江文体">
@@ -34297,62 +34174,104 @@
 	<channel id="杭州综合">
 		<display-name lang="zh">杭州综合</display-name>
 	</channel>
-	<programme channel="杭州综合" start="20260617004800 +0800" stop="20260617014900 +0800">
-		<title lang="zh">2017我是星主播(4)中</title>
+	<programme channel="杭州综合" start="20260617000000 +0800" stop="20260617060500 +0800">
+		<title lang="zh">啊摇篮(22)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617014900 +0800" stop="20260617060000 +0800">
-		<title lang="zh">2017我是星主播(4)下</title>
+	<programme channel="杭州综合" start="20260617060500 +0800" stop="20260617061400 +0800">
+		<title lang="zh">早间气象</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617060000 +0800" stop="20260617070500 +0800">
-		<title lang="zh">健康起义</title>
+	<programme channel="杭州综合" start="20260617061400 +0800" stop="20260617070000 +0800">
+		<title lang="zh">新闻60分</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617070500 +0800" stop="20260617074700 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="杭州综合" start="20260617070000 +0800" stop="20260617070300 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617074700 +0800" stop="20260617084600 +0800">
-		<title lang="zh">大牌价到294</title>
+	<programme channel="杭州综合" start="20260617070300 +0800" stop="20260617071800 +0800">
+		<title lang="zh">早间气象</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617084600 +0800" stop="20260617092600 +0800">
-		<title lang="zh">房产零距离</title>
+	<programme channel="杭州综合" start="20260617071800 +0800" stop="20260617080000 +0800">
+		<title lang="zh">市民大学堂</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617092600 +0800" stop="20260617110300 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="杭州综合" start="20260617080000 +0800" stop="20260617082700 +0800">
+		<title lang="zh">杭州新闻联播</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617110300 +0800" stop="20260617121600 +0800">
-		<title lang="zh">大牌价到</title>
+	<programme channel="杭州综合" start="20260617082700 +0800" stop="20260617091300 +0800">
+		<title lang="zh">新闻60分</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617121600 +0800" stop="20260617125600 +0800">
-		<title lang="zh">装修面对面</title>
+	<programme channel="杭州综合" start="20260617091300 +0800" stop="20260617093100 +0800">
+		<title lang="zh">火警119</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617125600 +0800" stop="20260617171000 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="杭州综合" start="20260617093100 +0800" stop="20260617101700 +0800">
+		<title lang="zh">你迟到的许多年(1)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617171000 +0800" stop="20260617180100 +0800">
-		<title lang="zh">我们退休了</title>
+	<programme channel="杭州综合" start="20260617101700 +0800" stop="20260617110400 +0800">
+		<title lang="zh">你迟到的许多年(2)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617180100 +0800" stop="20260617182800 +0800">
-		<title lang="zh">爱影者联盟</title>
+	<programme channel="杭州综合" start="20260617110400 +0800" stop="20260617114900 +0800">
+		<title lang="zh">你迟到的许多年(3)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617182800 +0800" stop="20260617205800 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="杭州综合" start="20260617114900 +0800" stop="20260617123500 +0800">
+		<title lang="zh">你迟到的许多年(4)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617205800 +0800" stop="20260617212400 +0800">
-		<title lang="zh">武林红毯秀</title>
+	<programme channel="杭州综合" start="20260617123500 +0800" stop="20260617132100 +0800">
+		<title lang="zh">你迟到的许多年(5)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617212400 +0800" stop="20260617214900 +0800">
-		<title lang="zh">健康起义</title>
+	<programme channel="杭州综合" start="20260617132100 +0800" stop="20260617140700 +0800">
+		<title lang="zh">你迟到的许多年(6)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617214900 +0800" stop="20260617222900 +0800">
-		<title lang="zh">今日新看点</title>
+	<programme channel="杭州综合" start="20260617140700 +0800" stop="20260617145100 +0800">
+		<title lang="zh">你迟到的许多年(7)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617222900 +0800" stop="20260617230200 +0800">
-		<title lang="zh">装修面对面</title>
+	<programme channel="杭州综合" start="20260617145100 +0800" stop="20260617153700 +0800">
+		<title lang="zh">你迟到的许多年(8)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617230200 +0800" stop="20260617231400 +0800">
-		<title lang="zh">房产零距离</title>
+	<programme channel="杭州综合" start="20260617153700 +0800" stop="20260617162100 +0800">
+		<title lang="zh">你迟到的许多年(9)</title>
 	</programme>
-	<programme channel="杭州综合" start="20260617231400 +0800" stop="20260617235959 +0800">
-		<title lang="zh">今日汽车</title>
+	<programme channel="杭州综合" start="20260617162100 +0800" stop="20260617170600 +0800">
+		<title lang="zh">你迟到的许多年(10)</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617170600 +0800" stop="20260617175900 +0800">
+		<title lang="zh">你迟到的许多年(11)</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617175900 +0800" stop="20260617184400 +0800">
+		<title lang="zh">新闻60分</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617184400 +0800" stop="20260617185500 +0800">
+		<title lang="zh">财经第一线</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617185500 +0800" stop="20260617190000 +0800">
+		<title lang="zh">杭州气象</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617190000 +0800" stop="20260617193200 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617193200 +0800" stop="20260617195200 +0800">
+		<title lang="zh">杭州新闻联播</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617195200 +0800" stop="20260617195900 +0800">
+		<title lang="zh">今日关注</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617195900 +0800" stop="20260617204600 +0800">
+		<title lang="zh">三大队(9)</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617204600 +0800" stop="20260617213100 +0800">
+		<title lang="zh">三大队(10)</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617213100 +0800" stop="20260617215800 +0800">
+		<title lang="zh">中国城市报道</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617215800 +0800" stop="20260617220800 +0800">
+		<title lang="zh">看杭州</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617220800 +0800" stop="20260617225100 +0800">
+		<title lang="zh">啊摇篮(23)</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617225100 +0800" stop="20260617233400 +0800">
+		<title lang="zh">啊摇篮(24)</title>
+	</programme>
+	<programme channel="杭州综合" start="20260617233400 +0800" stop="20260617235900 +0800">
+		<title lang="zh">啊摇篮(25)</title>
 	</programme>
 	<channel id="杭州生活">
 		<display-name lang="zh">杭州生活</display-name>
@@ -34507,47 +34426,101 @@
 	<channel id="杭州导视">
 		<display-name lang="zh">杭州导视</display-name>
 	</channel>
-	<programme channel="杭州导视" start="20260617000000 +0800" stop="20260617073000 +0800">
-		<title lang="zh">爱尚生活</title>
+	<programme channel="杭州导视" start="20260617000000 +0800" stop="20260617065200 +0800">
+		<title lang="zh">北平无战事(10)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617073000 +0800" stop="20260617083000 +0800">
-		<title lang="zh">济公说故事</title>
+	<programme channel="杭州导视" start="20260617065200 +0800" stop="20260617072600 +0800">
+		<title lang="zh">爱情的边疆(28)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617083000 +0800" stop="20260617093000 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="杭州导视" start="20260617072600 +0800" stop="20260617080000 +0800">
+		<title lang="zh">爱情的边疆(29)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617093000 +0800" stop="20260617101500 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="杭州导视" start="20260617080000 +0800" stop="20260617083400 +0800">
+		<title lang="zh">爱情的边疆(30)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617101500 +0800" stop="20260617110500 +0800">
-		<title lang="zh">时尚风云榜</title>
+	<programme channel="杭州导视" start="20260617083400 +0800" stop="20260617090700 +0800">
+		<title lang="zh">爱情的边疆(31)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617110500 +0800" stop="20260617113000 +0800">
-		<title lang="zh">影视风云榜</title>
+	<programme channel="杭州导视" start="20260617090700 +0800" stop="20260617094200 +0800">
+		<title lang="zh">爱情的边疆(32)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617113000 +0800" stop="20260617133000 +0800">
-		<title lang="zh">娱乐现场</title>
+	<programme channel="杭州导视" start="20260617094200 +0800" stop="20260617101500 +0800">
+		<title lang="zh">爱情的边疆(33)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617133000 +0800" stop="20260617150000 +0800">
-		<title lang="zh">奥秘</title>
+	<programme channel="杭州导视" start="20260617101500 +0800" stop="20260617104800 +0800">
+		<title lang="zh">北平无战事(9)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617150000 +0800" stop="20260617170000 +0800">
-		<title lang="zh">韩国反转剧</title>
+	<programme channel="杭州导视" start="20260617104800 +0800" stop="20260617112100 +0800">
+		<title lang="zh">北平无战事(10)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617170000 +0800" stop="20260617181000 +0800">
-		<title lang="zh">快乐厨房</title>
+	<programme channel="杭州导视" start="20260617112100 +0800" stop="20260617115400 +0800">
+		<title lang="zh">北平无战事(11)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617181000 +0800" stop="20260617190000 +0800">
-		<title lang="zh">戏曲大舞台</title>
+	<programme channel="杭州导视" start="20260617115400 +0800" stop="20260617122800 +0800">
+		<title lang="zh">北平无战事(12)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617190000 +0800" stop="20260617193000 +0800">
-		<title lang="zh">莲花剧场</title>
+	<programme channel="杭州导视" start="20260617122800 +0800" stop="20260617130000 +0800">
+		<title lang="zh">北平无战事(13)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617193000 +0800" stop="20260617202000 +0800">
-		<title lang="zh">中国股市报道</title>
+	<programme channel="杭州导视" start="20260617130000 +0800" stop="20260617133300 +0800">
+		<title lang="zh">北平无战事(14)</title>
 	</programme>
-	<programme channel="杭州导视" start="20260617202000 +0800" stop="20260617235959 +0800">
-		<title lang="zh">电视剧</title>
+	<programme channel="杭州导视" start="20260617133300 +0800" stop="20260617140600 +0800">
+		<title lang="zh">北平无战事(15)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617140600 +0800" stop="20260617143900 +0800">
+		<title lang="zh">爱情的边疆(28)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617143900 +0800" stop="20260617151100 +0800">
+		<title lang="zh">爱情的边疆(29)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617151100 +0800" stop="20260617154300 +0800">
+		<title lang="zh">爱情的边疆(30)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617154300 +0800" stop="20260617161500 +0800">
+		<title lang="zh">爱情的边疆(31)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617161500 +0800" stop="20260617164800 +0800">
+		<title lang="zh">爱情的边疆(32)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617164800 +0800" stop="20260617172300 +0800">
+		<title lang="zh">爱情的边疆(33)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617172300 +0800" stop="20260617175500 +0800">
+		<title lang="zh">爱情的边疆(34)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617175500 +0800" stop="20260617182900 +0800">
+		<title lang="zh">爱情的边疆(35)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617182900 +0800" stop="20260617190200 +0800">
+		<title lang="zh">爱情的边疆(36)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617190200 +0800" stop="20260617193600 +0800">
+		<title lang="zh">爱情的边疆(37)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617193600 +0800" stop="20260617200800 +0800">
+		<title lang="zh">北平无战事(8)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617200800 +0800" stop="20260617204100 +0800">
+		<title lang="zh">北平无战事(9)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617204100 +0800" stop="20260617211400 +0800">
+		<title lang="zh">北平无战事(10)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617211400 +0800" stop="20260617214800 +0800">
+		<title lang="zh">北平无战事(11)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617214800 +0800" stop="20260617222300 +0800">
+		<title lang="zh">北平无战事(12)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617222300 +0800" stop="20260617225600 +0800">
+		<title lang="zh">北平无战事(13)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617225600 +0800" stop="20260617232900 +0800">
+		<title lang="zh">北平无战事(14)</title>
+	</programme>
+	<programme channel="杭州导视" start="20260617232900 +0800" stop="20260617235900 +0800">
+		<title lang="zh">北平无战事(15)</title>
 	</programme>
 	<channel id="纬来电影台">
 		<display-name lang="zh">纬来电影台</display-name>
