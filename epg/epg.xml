@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260618000001 +0800">
+<tv date="20260618060825 +0800">
 	<channel id="CCTV-1 综合">
 		<display-name lang="zh">CCTV-1 综合</display-name>
 	</channel>
@@ -17861,7 +17861,7 @@
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
 	<programme channel="嘉佳卡通" start="20260618000000 +0800" stop="20260618000100 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅹ(26)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="嘉佳卡通" start="20260618000100 +0800" stop="20260618002100 +0800">
 		<title lang="zh">巴啦啦小魔仙之魔法海萤堡(1)</title>
@@ -24865,6 +24865,84 @@
 	<programme channel="海南少儿" start="20260618223000 +0800" stop="20260618235959 +0800">
 		<title lang="zh">乐比大冒险1</title>
 	</programme>
+	<channel id="黑龙江少儿">
+		<display-name lang="zh">黑龙江少儿</display-name>
+	</channel>
+	<programme channel="黑龙江少儿" start="20260618000000 +0800" stop="20260618000500 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618000500 +0800" stop="20260618003900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618003900 +0800" stop="20260618020000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618020000 +0800" stop="20260618050000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618050000 +0800" stop="20260618063000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618063000 +0800" stop="20260618070100 +0800">
+		<title lang="zh">了不起的少年</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618070100 +0800" stop="20260618092200 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618092200 +0800" stop="20260618103400 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618103400 +0800" stop="20260618111600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618111600 +0800" stop="20260618115600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618115600 +0800" stop="20260618123700 +0800">
+		<title lang="zh">健康心连心</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618123700 +0800" stop="20260618131900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618131900 +0800" stop="20260618140000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618140000 +0800" stop="20260618144100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618144100 +0800" stop="20260618152300 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618152300 +0800" stop="20260618160100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618160100 +0800" stop="20260618164300 +0800">
+		<title lang="zh">健康心连心</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618164300 +0800" stop="20260618180000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618180000 +0800" stop="20260618183100 +0800">
+		<title lang="zh">了不起的少年</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618183100 +0800" stop="20260618200400 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618200400 +0800" stop="20260618213000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618213000 +0800" stop="20260618220000 +0800">
+		<title lang="zh">了不起的少年</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618220000 +0800" stop="20260618232000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618232000 +0800" stop="20260618235900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="黑龙江少儿" start="20260618235900 +0800" stop="20260619000000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
 	<channel id="黑龙江新闻法治">
 		<display-name lang="zh">黑龙江新闻法治</display-name>
 	</channel>
@@ -25154,6 +25232,150 @@
 		<title lang="zh">相亲相爱</title>
 	</programme>
 	<programme channel="黑龙江文体" start="20260618235900 +0800" stop="20260619000000 +0800">
+		<title lang="zh">结束</title>
+	</programme>
+	<channel id="黑龙江影视">
+		<display-name lang="zh">黑龙江影视</display-name>
+	</channel>
+	<programme channel="黑龙江影视" start="20260618000000 +0800" stop="20260618000500 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618000500 +0800" stop="20260618004600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618004600 +0800" stop="20260618012900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618012900 +0800" stop="20260618015100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618015100 +0800" stop="20260618023400 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618023400 +0800" stop="20260618031600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618031600 +0800" stop="20260618035900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618035900 +0800" stop="20260618044000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618044000 +0800" stop="20260618051000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618051000 +0800" stop="20260618054000 +0800">
+		<title lang="zh">健康读书会</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618054000 +0800" stop="20260618055100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618055100 +0800" stop="20260618063100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618063100 +0800" stop="20260618065600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618065600 +0800" stop="20260618073900 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618073900 +0800" stop="20260618074900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618074900 +0800" stop="20260618075800 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618075800 +0800" stop="20260618082000 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618082000 +0800" stop="20260618085500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618085500 +0800" stop="20260618090100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618090100 +0800" stop="20260618092200 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618092200 +0800" stop="20260618095900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618095900 +0800" stop="20260618101300 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618101300 +0800" stop="20260618103500 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618103500 +0800" stop="20260618110500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618110500 +0800" stop="20260618114700 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618114700 +0800" stop="20260618122100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618122100 +0800" stop="20260618130300 +0800">
+		<title lang="zh">健康心连心</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618130300 +0800" stop="20260618130900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618130900 +0800" stop="20260618134100 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618134100 +0800" stop="20260618142400 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618142400 +0800" stop="20260618143300 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618143300 +0800" stop="20260618144500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618144500 +0800" stop="20260618150600 +0800">
+		<title lang="zh">名医开讲</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618150600 +0800" stop="20260618152500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618152500 +0800" stop="20260618160800 +0800">
+		<title lang="zh">健康心说</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618160800 +0800" stop="20260618161800 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618161800 +0800" stop="20260618162700 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618162700 +0800" stop="20260618171200 +0800">
+		<title lang="zh">健康全球购</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618171200 +0800" stop="20260618175600 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618175600 +0800" stop="20260618191100 +0800">
+		<title lang="zh">影视靓点</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618191100 +0800" stop="20260618195800 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618195800 +0800" stop="20260618204500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618204500 +0800" stop="20260618214700 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618214700 +0800" stop="20260618222700 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618222700 +0800" stop="20260618232200 +0800">
+		<title lang="zh">爱笑会议室</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618232200 +0800" stop="20260618235900 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="黑龙江影视" start="20260618235900 +0800" stop="20260619000000 +0800">
 		<title lang="zh">结束</title>
 	</programme>
 	<channel id="湖北经视">
