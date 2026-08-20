@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-08-19 08:08:00
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-08-20 08:04:42
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
@@ -15,8 +15,6 @@ http://172.50.0.2:7777/hls/b1ed55834551798f90abe727.m3u8
 http://172.50.0.2:7777/hls/f5757137cf6e2ffd9b23e60e.m3u8
 #EXTINF:-1 tvg-id="CGTN-Pусский（CGTN俄语）" tvg-name="CGTN-Pусский （CGTN俄语）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN-Pусский （CGTN俄语）.png" group-title="📺CGTN（中国国际电视台）",CGTN-Pусский （CGTN俄语）
 http://172.50.0.2:7777/hls/130673054ace1577a1fec947.m3u8
-#EXTINF:-1 tvg-id="东方卫视（上海卫视）" tvg-name="东方卫视（上海卫视）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视（上海卫视）.png" group-title="📡卫视频道",东方卫视（上海卫视）
-http://172.50.0.2:7777/hls/e849196b46560c5bd0d3d891.m3u8
 #EXTINF:-1 tvg-id="东方卫视（上海卫视）" tvg-name="东方卫视（上海卫视）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视（上海卫视）.png" group-title="📡卫视频道",东方卫视（上海卫视）
 http://172.50.0.2:7777/hls/37255f374b4363df0203dd41.m3u8
 #EXTINF:-1 tvg-id="东南卫视（福建卫视）" tvg-name="东南卫视（福建卫视）" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视（福建卫视）.png" group-title="📡卫视频道",东南卫视（福建卫视）
@@ -118,9 +116,9 @@ http://172.50.0.2:7777/hls/5a6575484ace81b7b08a5dff.m3u8
 #EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 http://172.50.0.2:7777/hls/e23ded5d4d1fb545ac541b34.m3u8
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
-http://172.50.0.2:7777/hls/98e236c50f041de293984040.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
 http://172.50.0.2:7777/hls/ff2d98b8071e2fe0d68445f2.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
+http://172.50.0.2:7777/hls/98e236c50f041de293984040.m3u8
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科影视.png" group-title="☘️浙江频道",浙江教科影视
 http://172.50.0.2:7777/hls/cc4b11af041dbbd2fe38071f.m3u8
 #EXTINF:-1 tvg-id="青田电视台" tvg-name="青田电视台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青田电视台.png" group-title="☘️浙江频道",青田电视台
@@ -143,8 +141,6 @@ http://172.50.0.2:7777/hls/83c1d8dbe99f7d4a7058aba9.m3u8
 http://172.50.0.2:7777/hls/82d8ee1fc80c86fd4657dcbe.m3u8
 #EXTINF:-1 tvg-id="开化国家公园" tvg-name="开化国家公园" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开化国家公园.png" group-title="☘️浙江频道",开化国家公园
 http://172.50.0.2:7777/hls/8d17a05e3b4f303d27ad754c.m3u8
-#EXTINF:-1 tvg-id="开化国家公园" tvg-name="开化国家公园" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开化国家公园.png" group-title="☘️浙江频道",开化国家公园
-http://172.50.0.2:7777/hls/e64e167e53633b8f7c7fdc71.m3u8
 #EXTINF:-1 tvg-id="庆元新闻综合" tvg-name="庆元新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/庆元新闻综合.png" group-title="☘️浙江频道",庆元新闻综合
 http://172.50.0.2:7777/hls/84f33fc800c5c2f85b7c1e27.m3u8
 #EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
@@ -172,21 +168,17 @@ http://172.50.0.2:7777/hls/df5ddf69eb8166fbd76dbd29.m3u8
 #EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡娱乐.png" group-title="☘️江苏频道",无锡娱乐
 http://172.50.0.2:7777/hls/009a7bfa36798318cbd976d1.m3u8
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
-http://172.50.0.2:7777/hls/b002f15e77276195a8977d3e.m3u8
-#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
-http://172.50.0.2:7777/hls/ef03b63430ace4424e7146e3.m3u8
+http://172.50.0.2:7777/hls/1892dc1a44fa63983aa1db4b.m3u8
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
 http://172.50.0.2:7777/hls/2f14839658bdc258b0c4d821.m3u8
-#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡新闻综合.png" group-title="☘️江苏频道",无锡新闻综合
-http://172.50.0.2:7777/hls/1892dc1a44fa63983aa1db4b.m3u8
 #EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡生活.png" group-title="☘️江苏频道",无锡生活
 http://172.50.0.2:7777/hls/8d53f171cf66c2502853b50c.m3u8
 #EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡生活.png" group-title="☘️江苏频道",无锡生活
 http://172.50.0.2:7777/hls/fd45911ef7d753a6c1a5f664.m3u8
 #EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡经济.png" group-title="☘️江苏频道",无锡经济
-http://172.50.0.2:7777/hls/bcd9b321aeae69c5b61680b8.m3u8
-#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡经济.png" group-title="☘️江苏频道",无锡经济
 http://172.50.0.2:7777/hls/ab17073349c14b81845168ea.m3u8
+#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡经济.png" group-title="☘️江苏频道",无锡经济
+http://172.50.0.2:7777/hls/bcd9b321aeae69c5b61680b8.m3u8
 #EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡都市资讯.png" group-title="☘️江苏频道",无锡都市资讯
 http://172.50.0.2:7777/hls/19c27c5dc3f867d27f16a467.m3u8
 #EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无锡都市资讯.png" group-title="☘️江苏频道",无锡都市资讯
@@ -324,7 +316,7 @@ http://172.50.0.2:7777/hls/474d7f82c9f78e3c94a9c2fa.m3u8
 #EXTINF:-1 tvg-id="电影_高能反转" tvg-name="电影_高能反转" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影_高能反转.png" group-title="🪲虎牙轮播",电影_高能反转
 http://172.50.0.2:7777/hls/4bd32be1ed582860b4bb60e2.m3u8
 #EXTINF:-1 tvg-id="电影_发哥" tvg-name="电影_发哥" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影_发哥.png" group-title="🪲虎牙轮播",电影_发哥
-http://172.50.0.2:7777/hls/-5742714277386867035.m3u8
+http://172.50.0.2:7777/hls/decd9b5357a91a2e67a1b4cf.m3u8
 #EXTINF:-1 tvg-id="电影_王晶" tvg-name="电影_王晶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影_王晶.png" group-title="🪲虎牙轮播",电影_王晶
 http://172.50.0.2:7777/hls/3ad49a2feb9c3bef9915be0a.m3u8
 #EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影_沈腾.png" group-title="🪲虎牙轮播",电影_沈腾
