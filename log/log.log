@@ -1025,3 +1025,32 @@
 2026-08-22T00:19:54+00:00 INFO    [run=e4b021f788e9498bb951b833d45f5ed4 phase=complete event=run.summary] 更新摘要
 2026-08-22T00:19:54+00:00 INFO    [run=e4b021f788e9498bb951b833d45f5ed4 phase=complete event=run.finished] 更新完成！总耗时：03:49
 2026-08-22T00:19:55+00:00 INFO    [phase=schedule event=schedule.next_run] 下次更新时间: 2026-08-22 20:19:55
+2026-08-22T06:08:40+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-18 09:47:29)
+2026-08-22T06:08:41+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-08-22T06:08:42+00:00 INFO    [phase=prepare event=network.ipv6.supported] 当前网络支持IPv6！
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 1.86 GB，并发: 测速 5、媒体探测 1、源抓取 3
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 5，台标 21
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=fetch event=sources.subscribe.summary] 订阅源数量：0，订阅白名单数量：0，停用地址数量：53，有效总数量：0
+2026-08-22T06:08:43+00:00 WARNING [run=47d1a850ea454f2987e074a08fb49e93 phase=fetch event=sources.subscribe.empty] 没有找到有效的订阅地址，请检查文件：config/subscribe.txt，需要添加订阅地址后才能获取订阅源！
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=fetch event=sources.epg.summary] EPG源数量：0，EPG白名单数量：0，停用地址数量：6，有效总数量：0
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=aggregate event=channels.aggregated] 频道数据聚合完成：1942 个频道，442 个接口（IPv4 243 / IPv6 199）
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=speed_test.planned] 总接口数量: 411, 需要进行测速的接口数量: 411
+2026-08-22T06:08:43+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.started] 测速  0/411
+2026-08-22T06:08:47+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  1/411 (0%)  有效 0  失败 1  CCTV-6 电影
+2026-08-22T06:09:12+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  42/411 (10%)  有效 26  失败 16  黑龙江卫视
+2026-08-22T06:09:23+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  83/411 (20%)  有效 33  失败 50  鄢陵综合
+2026-08-22T06:09:37+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  124/411 (30%)  有效 60  失败 64  浙江少儿
+2026-08-22T06:09:48+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  165/411 (40%)  有效 100  失败 65  衢江新闻综合
+2026-08-22T06:10:01+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  206/411 (50%)  有效 139  失败 67  余姚姚江文化
+2026-08-22T06:10:17+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  247/411 (60%)  有效 172  失败 75  湖南国际
+2026-08-22T06:10:37+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  288/411 (70%)  有效 199  失败 89  邢台综合
+2026-08-22T06:10:59+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  329/411 (80%)  有效 228  失败 101  亳州农村
+2026-08-22T06:11:26+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  370/411 (90%)  有效 240  失败 130  电影_不挤影院
+2026-08-22T06:11:52+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.updated] 测速  411/411 (100%)  有效 252  失败 159  潮流音乐
+2026-08-22T06:11:52+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-08-22T06:11:52+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=speed_test event=progress.finished] 测速  411/411  有效 252  失败 159
+2026-08-22T06:11:55+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=output event=output.written] 结果文件生成完成：更新 6 个文件
+2026-08-22T06:11:57+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=statistics event=statistics.finished] 频道统计完成：测试 411，有效 252
+2026-08-22T06:11:57+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=complete event=run.summary] 更新摘要
+2026-08-22T06:11:57+00:00 INFO    [run=47d1a850ea454f2987e074a08fb49e93 phase=complete event=run.finished] 更新完成！总耗时：03:14
+2026-08-22T06:11:58+00:00 INFO    [phase=schedule event=schedule.next_run] 下次更新时间: 2026-08-23 02:11:58
