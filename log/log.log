@@ -1736,3 +1736,32 @@
 2026-08-31T23:46:08+00:00 INFO    [run=4af4367da23c433da63280532443c5e1 phase=complete event=run.summary] 更新摘要
 2026-08-31T23:46:08+00:00 INFO    [run=4af4367da23c433da63280532443c5e1 phase=complete event=run.finished] 更新完成！总耗时：03:07
 2026-08-31T23:46:08+00:00 INFO    [phase=schedule event=schedule.next_run] 下次更新时间: 2026-09-01 19:46:08
+2026-09-01T06:04:18+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-08-27 12:10:58)
+2026-09-01T06:04:18+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-09-01T06:04:20+00:00 INFO    [phase=prepare event=network.ipv6.supported] 当前网络支持IPv6！
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 1.86 GB，并发: 测速 5、媒体探测 1、源抓取 3
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 5，台标 21
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=fetch event=sources.subscribe.summary] 订阅源数量：0，订阅白名单数量：0，停用地址数量：53，有效总数量：0
+2026-09-01T06:04:20+00:00 WARNING [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=fetch event=sources.subscribe.empty] 没有找到有效的订阅地址，请检查文件：config/subscribe.txt，需要添加订阅地址后才能获取订阅源！
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=fetch event=sources.epg.summary] EPG源数量：0，EPG白名单数量：0，停用地址数量：6，有效总数量：0
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=aggregate event=channels.aggregated] 频道数据聚合完成：1942 个频道，416 个接口（IPv4 231 / IPv6 185）
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=speed_test.planned] 总接口数量: 386, 需要进行测速的接口数量: 386
+2026-09-01T06:04:20+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.started] 测速  0/386
+2026-09-01T06:04:25+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  1/386 (0%)  有效 1  失败 0  CCTV-3 综艺
+2026-09-01T06:04:52+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  39/386 (10%)  有效 26  失败 13  湖南卫视
+2026-09-01T06:05:03+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  78/386 (20%)  有效 34  失败 44  灵宝新闻综合
+2026-09-01T06:05:17+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  116/386 (30%)  有效 59  失败 57  浙江教科
+2026-09-01T06:05:28+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  155/386 (40%)  有效 96  失败 59  绍兴文化影院
+2026-09-01T06:05:39+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  193/386 (50%)  有效 132  失败 61  东阳影视生活
+2026-09-01T06:05:58+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  232/386 (60%)  有效 159  失败 73  南宁影视娱乐
+2026-09-01T06:06:19+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  271/386 (70%)  有效 182  失败 89  甘肃经济
+2026-09-01T06:06:35+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  309/386 (80%)  有效 206  失败 103  易门综合
+2026-09-01T06:07:04+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  348/386 (90%)  有效 219  失败 129  电影_高能反转
+2026-09-01T06:07:28+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.updated] 测速  386/386 (100%)  有效 235  失败 151  音乐现场
+2026-09-01T06:07:28+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-09-01T06:07:28+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=speed_test event=progress.finished] 测速  386/386  有效 235  失败 151
+2026-09-01T06:07:29+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=output event=output.written] 结果文件生成完成：更新 6 个文件
+2026-09-01T06:07:32+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=statistics event=statistics.finished] 频道统计完成：测试 386，有效 235
+2026-09-01T06:07:32+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=complete event=run.summary] 更新摘要
+2026-09-01T06:07:32+00:00 INFO    [run=5661d3f5e3ea4c2d9d4f5ea5a1f5de61 phase=complete event=run.finished] 更新完成！总耗时：03:12
+2026-09-01T06:07:34+00:00 INFO    [phase=schedule event=schedule.next_run] 下次更新时间: 2026-09-02 02:07:34
