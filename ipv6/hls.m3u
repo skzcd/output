@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-09-01 14:07:29
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-09-02 08:08:31
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
@@ -124,9 +124,9 @@ http://172.50.0.2:7777/hls/8d17a05e3b4f303d27ad754c.m3u8
 #EXTINF:-1 tvg-id="庆元新闻综合" tvg-name="庆元新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/庆元新闻综合.png" group-title="☘️浙江频道",庆元新闻综合
 http://172.50.0.2:7777/hls/84f33fc800c5c2f85b7c1e27.m3u8
 #EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
-http://172.50.0.2:7777/hls/85a79f85da5d9f826d27fe27.m3u8
-#EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
 http://172.50.0.2:7777/hls/a9ce1b80dab5ab566a399fd4.m3u8
+#EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
+http://172.50.0.2:7777/hls/85a79f85da5d9f826d27fe27.m3u8
 #EXTINF:-1 tvg-id="平湖新闻综合" tvg-name="平湖新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖新闻综合.png" group-title="☘️浙江频道",平湖新闻综合
 http://172.50.0.2:7777/hls/e99f63232d0ad652cf0fb24d.m3u8
 #EXTINF:-1 tvg-id="嵊泗综合" tvg-name="嵊泗综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嵊泗综合.png" group-title="☘️浙江频道",嵊泗综合
@@ -350,4 +350,4 @@ http://172.50.0.2:7777/hls/-4085206613587921492.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/精品体育.png" group-title="🏀体育频道",精品体育
 http://172.50.0.2:7777/hls/531137547510839779.m3u8
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://www.xn--rgv465a.top/tvlogo/直播中国.png" group-title="🐼景区直播",直播中国
-http://172.50.0.2:7777/hls/-1233498880201330865.m3u8
+http://172.50.0.2:7777/hls/26fbaf7b44a591f2e811c26a.m3u8
