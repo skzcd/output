@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-09-20 11:02:08
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-09-21 08:08:57
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
@@ -53,8 +53,6 @@ http://172.50.0.2:7777/hls/e63ccec88e47fa3b939c7d54.m3u8
 http://172.50.0.2:7777/hls/b1011213dda45c29895d1a8f.m3u8
 #EXTINF:-1 tvg-id="渑池新闻综合" tvg-name="渑池新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/渑池新闻综合.png" group-title="☘️河南频道",渑池新闻综合
 http://172.50.0.2:7777/hls/20566e726635dc8430619c8b.m3u8
-#EXTINF:-1 tvg-id="渑池新闻综合" tvg-name="渑池新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/渑池新闻综合.png" group-title="☘️河南频道",渑池新闻综合
-http://172.50.0.2:7777/hls/bdade0abe3a397de31ba10f7.m3u8
 #EXTINF:-1 tvg-id="温县综合" tvg-name="温县综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/温县综合.png" group-title="☘️河南频道",温县综合
 http://172.50.0.2:7777/hls/fef7a0e208a7554be634aa17.m3u8
 #EXTINF:-1 tvg-id="潢川综合" tvg-name="潢川综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/潢川综合.png" group-title="☘️河南频道",潢川综合
@@ -87,8 +85,6 @@ http://172.50.0.2:7777/hls/94083e9527a1f0462b5a4960.m3u8
 http://172.50.0.2:7777/hls/b1e11f4b53d16acfddf8576e.m3u8
 #EXTINF:-1 tvg-id="新野综合" tvg-name="新野综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新野综合.png" group-title="☘️河南频道",新野综合
 http://172.50.0.2:7777/hls/0ad1cba1de10472da2eacbd2.m3u8
-#EXTINF:-1 tvg-id="新野综合" tvg-name="新野综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新野综合.png" group-title="☘️河南频道",新野综合
-http://172.50.0.2:7777/hls/a2726a9e88d4b586e6eaed48.m3u8
 #EXTINF:-1 tvg-id="新安新闻综合" tvg-name="新安新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新安新闻综合.png" group-title="☘️河南频道",新安新闻综合
 http://172.50.0.2:7777/hls/f08d06e62e2632c987912a79.m3u8
 #EXTINF:-1 tvg-id="嵩县综合新闻" tvg-name="嵩县综合新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嵩县综合新闻.png" group-title="☘️河南频道",嵩县综合新闻
@@ -126,9 +122,9 @@ http://172.50.0.2:7777/hls/8d17a05e3b4f303d27ad754c.m3u8
 #EXTINF:-1 tvg-id="庆元新闻综合" tvg-name="庆元新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/庆元新闻综合.png" group-title="☘️浙江频道",庆元新闻综合
 http://172.50.0.2:7777/hls/84f33fc800c5c2f85b7c1e27.m3u8
 #EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
-http://172.50.0.2:7777/hls/a9ce1b80dab5ab566a399fd4.m3u8
-#EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
 http://172.50.0.2:7777/hls/85a79f85da5d9f826d27fe27.m3u8
+#EXTINF:-1 tvg-id="平湖民生休闲" tvg-name="平湖民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖民生休闲.png" group-title="☘️浙江频道",平湖民生休闲
+http://172.50.0.2:7777/hls/a9ce1b80dab5ab566a399fd4.m3u8
 #EXTINF:-1 tvg-id="平湖新闻综合" tvg-name="平湖新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平湖新闻综合.png" group-title="☘️浙江频道",平湖新闻综合
 http://172.50.0.2:7777/hls/e99f63232d0ad652cf0fb24d.m3u8
 #EXTINF:-1 tvg-id="嵊泗综合" tvg-name="嵊泗综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嵊泗综合.png" group-title="☘️浙江频道",嵊泗综合

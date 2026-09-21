@@ -2800,3 +2800,33 @@
 2026-09-20T03:02:13+00:00 INFO    [run=2a5a0bc159494deb857c71409dd3c085 phase=complete event=run.summary] 更新摘要
 2026-09-20T03:02:13+00:00 INFO    [run=2a5a0bc159494deb857c71409dd3c085 phase=complete event=run.finished] 更新完成！总耗时：03:11
 2026-09-20T03:02:18+00:00 INFO    [phase=schedule event=schedule.next_run] 下次更新时间: 2026-09-20 23:02:18
+2026-09-21T00:05:37+00:00 INFO    [event=application.started] IPTV-API 版本: 3.0.0 (构建时间: 2026-09-11 11:22:41)
+2026-09-21T00:05:37+00:00 INFO    [event=sponsor.helodata] Helodata：优惠码：iptvapi，为 AI、网页采集与自动化应用提供稳定可靠的代理基础设施。8000万+ IP · 195+ 国家和地区 · 住宅 · ISP · 移动 · 数据中心。了解更多：https://helodata.com?ref=iptvapi2
+2026-09-21T00:05:38+00:00 INFO    [phase=prepare event=network.ipv6.checking] 🛜 正在检查当前网络是否支持IPv6...
+2026-09-21T00:05:41+00:00 INFO    [phase=prepare event=network.ipv6.supported] 当前网络支持IPv6！
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=prepare event=run.started] 性能模式: auto → balance，可用资源: 4.0 CPU / 1.86 GB，并发: 测速 5、媒体探测 1、源抓取 3
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=prepare event=channels.catalog_loaded] 频道目录已加载：白名单 0，黑名单 5，台标 21
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=fetch event=sources.subscribe.summary] 订阅源数量：0，订阅白名单数量：0，停用地址数量：53，有效总数量：0
+2026-09-21T00:05:41+00:00 WARNING [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=fetch event=sources.subscribe.empty] 没有找到有效的订阅地址，请检查文件：config/subscribe.txt，需要添加订阅地址后才能获取订阅源！
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=fetch event=sources.epg.summary] EPG源数量：0，EPG白名单数量：0，停用地址数量：6，有效总数量：0
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=aggregate event=channels.aggregated] 频道数据聚合完成：1942 个频道，394 个接口（IPv4 211 / IPv6 183）
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=speed_test.planned] 总接口数量: 368, 需要进行测速的接口数量: 368
+2026-09-21T00:05:41+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.started] 测速  0/368
+2026-09-21T00:05:43+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  1/368 (0%)  有效 0  失败 1  CCTV-7 国防军事
+2026-09-21T00:06:04+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  37/368 (10%)  有效 28  失败 9  广西卫视
+2026-09-21T00:06:12+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  74/368 (20%)  有效 37  失败 37  项城新闻
+2026-09-21T00:06:23+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  111/368 (30%)  有效 58  失败 53  嘉兴新闻综合
+2026-09-21T00:06:39+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  148/368 (40%)  有效 92  失败 56  武义新闻综合
+2026-09-21T00:06:52+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  184/368 (50%)  有效 123  失败 61  重庆汽摩
+2026-09-21T00:07:10+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  221/368 (60%)  有效 142  失败 79  名山综合
+2026-09-21T00:07:35+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  258/368 (70%)  有效 165  失败 93  白银综合
+2026-09-21T00:07:50+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  295/368 (80%)  有效 187  失败 108  安多卫视
+2026-09-21T00:08:06+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  332/368 (90%)  有效 190  失败 142  电影_动作电影
+2026-09-21T00:08:34+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.updated] 测速  368/368 (100%)  有效 196  失败 172  潮流音乐
+2026-09-21T00:08:34+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=speed_test.artifacts_written] 测速明细已写入 output/log/speed_test.log，有效结果已写入 output/log/result.log
+2026-09-21T00:08:34+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=speed_test event=progress.finished] 测速  368/368  有效 196  失败 172
+2026-09-21T00:08:58+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=output event=output.written] 结果文件生成完成：更新 6 个文件
+2026-09-21T00:09:06+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=statistics event=statistics.finished] 频道统计完成：测试 368，有效 196
+2026-09-21T00:09:08+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=complete event=run.summary] 更新摘要
+2026-09-21T00:09:08+00:00 INFO    [run=e6c333e9b8f84890ae0bb20d637ffe99 phase=complete event=run.finished] 更新完成！总耗时：03:27
+2026-09-21T00:09:10+00:00 INFO    [phase=schedule event=schedule.next_run] 下次更新时间: 2026-09-21 20:09:10
