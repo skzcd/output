@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-10-09 08:06:51
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-10-09 14:12:05
 http://172.50.0.2:7777/hls/d46e073f09f6c556f318ccd2.m3u8
 #EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://172.50.0.2:7777/hls/d46e073f09f6c556f318ccd2.m3u8
@@ -25,6 +25,8 @@ http://172.50.0.2:7777/hls/633684540d065235a265678a.m3u8
 http://172.50.0.2:7777/hls/42006108611dd27b1f3a163c.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
+#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15 音乐.png" group-title="📺央视频道",CCTV-15 音乐
+http://172.50.0.2:7777/hls/ebbcd34d17c6efc1502a8ce5.m3u8
 #EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15 音乐.png" group-title="📺央视频道",CCTV-15 音乐
 http://172.50.0.2:7777/hls/a21c5b08a2935686b2ea2322.m3u8
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16 奥林匹克.png" group-title="📺央视频道",CCTV-16 奥林匹克
@@ -253,8 +255,6 @@ http://172.50.0.2:7777/hls/2d149a4d6ed26d26bd2b21ee.m3u8
 http://172.50.0.2:7777/hls/8f8fdf6060b7da3ad0f1cea6.m3u8
 #EXTINF:-1 tvg-id="遂昌综合" tvg-name="遂昌综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/遂昌综合.png" group-title="☘️浙江频道",遂昌综合
 http://172.50.0.2:7777/hls/390df2f240261cb17d8613e9.m3u8
-#EXTINF:-1 tvg-id="象山综合" tvg-name="象山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象山综合.png" group-title="☘️浙江频道",象山综合
-http://172.50.0.2:7777/hls/39eb7ff33639ab4a991490df.m3u8
 #EXTINF:-1 tvg-id="象山综合" tvg-name="象山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象山综合.png" group-title="☘️浙江频道",象山综合
 http://172.50.0.2:7777/hls/f41cf7f6b8545d94042e79ee.m3u8
 #EXTINF:-1 tvg-id="象山综合" tvg-name="象山综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/象山综合.png" group-title="☘️浙江频道",象山综合
@@ -542,9 +542,9 @@ http://172.50.0.2:7777/hls/d2014cad1f645748d909ddc6.m3u8
 #EXTINF:-1 tvg-id="平遥新闻综合" tvg-name="平遥新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/平遥新闻综合.png" group-title="☘️山西频道",平遥新闻综合
 http://172.50.0.2:7777/hls/47986f85a142241d01194e82.m3u8
 #EXTINF:-1 tvg-id="怀仁综合" tvg-name="怀仁综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀仁综合.png" group-title="☘️山西频道",怀仁综合
-http://172.50.0.2:7777/hls/fa22073805dd49672ec2859e.m3u8
-#EXTINF:-1 tvg-id="怀仁综合" tvg-name="怀仁综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀仁综合.png" group-title="☘️山西频道",怀仁综合
 http://172.50.0.2:7777/hls/da92433585bbe38b7d40bfb9.m3u8
+#EXTINF:-1 tvg-id="怀仁综合" tvg-name="怀仁综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀仁综合.png" group-title="☘️山西频道",怀仁综合
+http://172.50.0.2:7777/hls/fa22073805dd49672ec2859e.m3u8
 #EXTINF:-1 tvg-id="武乡新闻综合" tvg-name="武乡新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武乡新闻综合.png" group-title="☘️山西频道",武乡新闻综合
 http://172.50.0.2:7777/hls/fc49015c3e275ac52e38e26d.m3u8
 #EXTINF:-1 tvg-id="汾西综合" tvg-name="汾西综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汾西综合.png" group-title="☘️山西频道",汾西综合
