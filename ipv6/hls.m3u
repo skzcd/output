@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-11-05 14:05:33
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-11-06 08:05:08
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
@@ -43,10 +43,6 @@ http://172.50.0.2:7777/hls/c69d5f2f35697a0c4e99231f.m3u8
 http://172.50.0.2:7777/hls/fb66625a6ef84f0524f81c2c.m3u8
 #EXTINF:-1 tvg-id="新县综合" tvg-name="新县综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新县综合.png" group-title="☘️河南频道",新县综合
 http://172.50.0.2:7777/hls/4d3cbdf000f53eaa33f8c924.m3u8
-#EXTINF:-1 tvg-id="新蔡综合" tvg-name="新蔡综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新蔡综合.png" group-title="☘️河南频道",新蔡综合
-http://172.50.0.2:7777/hls/ff6ac6ab5773fb90baab9554.m3u8
-#EXTINF:-1 tvg-id="新蔡综合" tvg-name="新蔡综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新蔡综合.png" group-title="☘️河南频道",新蔡综合
-http://172.50.0.2:7777/hls/e63ccec88e47fa3b939c7d54.m3u8
 #EXTINF:-1 tvg-id="新蔡综合" tvg-name="新蔡综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新蔡综合.png" group-title="☘️河南频道",新蔡综合
 http://172.50.0.2:7777/hls/b1011213dda45c29895d1a8f.m3u8
 #EXTINF:-1 tvg-id="渑池新闻综合" tvg-name="渑池新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/渑池新闻综合.png" group-title="☘️河南频道",渑池新闻综合
