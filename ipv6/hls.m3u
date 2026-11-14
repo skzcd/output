@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://172.50.0.2:7777/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-11-13 14:06:58
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-11-14 08:21:29
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14 少儿.png" group-title="📺央视频道",CCTV-14 少儿
 http://172.50.0.2:7777/hls/4da70e52ad663082c2198379.m3u8
@@ -220,11 +220,11 @@ http://172.50.0.2:7777/hls/6233e9f179bdee27e2340293.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江都市.png" group-title="☘️黑龙江频道",黑龙江都市
 http://172.50.0.2:7777/hls/90f376cf92b82f889ca7d27f.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品体育.png" group-title="🐝NewTV",NewTV精品体育
-http://172.50.0.2:7777/hls/85732eff5a7419470ca62986.m3u8
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品体育.png" group-title="🐝NewTV",NewTV精品体育
 http://172.50.0.2:7777/hls/8b04388160e7a320f8c56372.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品体育.png" group-title="🐝NewTV",NewTV精品体育
 http://172.50.0.2:7777/hls/bdfbf4e61aeef0ff2340a8ea.m3u8
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NewTV精品体育.png" group-title="🐝NewTV",NewTV精品体育
+http://172.50.0.2:7777/hls/85732eff5a7419470ca62986.m3u8
 #EXTINF:-1 tvg-id="邵氏影院" tvg-name="邵氏影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邵氏影院.png" group-title="📹斗鱼轮播",邵氏影院
 http://172.50.0.2:7777/hls/40d17c5156ce65608bcef8dd.m3u8
 #EXTINF:-1 tvg-id="热门港剧" tvg-name="热门港剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/热门港剧.png" group-title="📹斗鱼轮播",热门港剧
@@ -322,11 +322,11 @@ http://172.50.0.2:7777/hls/3198183b83bbfab100d800c4.m3u8
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳",TVBS亚洲
 http://172.50.0.2:7777/hls/b961d20c8cf65fdfa3fe3b84.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳",纬来体育
-http://172.50.0.2:7777/hls/f79a7aa5c53e5a42b0097042.m3u8
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳",纬来体育
 http://172.50.0.2:7777/hls/a940d0206a5ed741d6c3d092.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳",纬来体育
 http://172.50.0.2:7777/hls/c089f47ca2d26d1271a50f8f.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳",纬来体育
+http://172.50.0.2:7777/hls/f79a7aa5c53e5a42b0097042.m3u8
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="🌊港·澳",纬来育乐
 http://172.50.0.2:7777/hls/bd6ac95df49838b6fff1b89a.m3u8
 #EXTINF:-1 tvg-id="靖天戏剧" tvg-name="靖天戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧.png" group-title="🌊湾湾",靖天戏剧
@@ -334,22 +334,22 @@ http://172.50.0.2:7777/hls/a6454db541a92ae1cde694b9.m3u8
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="🌊湾湾",纬来育乐
 http://172.50.0.2:7777/hls/bd6ac95df49838b6fff1b89a.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊湾湾",纬来体育
-http://172.50.0.2:7777/hls/f79a7aa5c53e5a42b0097042.m3u8
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊湾湾",纬来体育
 http://172.50.0.2:7777/hls/a940d0206a5ed741d6c3d092.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊湾湾",纬来体育
 http://172.50.0.2:7777/hls/c089f47ca2d26d1271a50f8f.m3u8
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🏀体育频道",纬来体育
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊湾湾",纬来体育
 http://172.50.0.2:7777/hls/f79a7aa5c53e5a42b0097042.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🏀体育频道",纬来体育
 http://172.50.0.2:7777/hls/a940d0206a5ed741d6c3d092.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🏀体育频道",纬来体育
 http://172.50.0.2:7777/hls/c089f47ca2d26d1271a50f8f.m3u8
-#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/精品体育.png" group-title="🏀体育频道",精品体育
-http://172.50.0.2:7777/hls/85732eff5a7419470ca62986.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🏀体育频道",纬来体育
+http://172.50.0.2:7777/hls/f79a7aa5c53e5a42b0097042.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/精品体育.png" group-title="🏀体育频道",精品体育
 http://172.50.0.2:7777/hls/8b04388160e7a320f8c56372.m3u8
 #EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/精品体育.png" group-title="🏀体育频道",精品体育
 http://172.50.0.2:7777/hls/bdfbf4e61aeef0ff2340a8ea.m3u8
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="精品体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/精品体育.png" group-title="🏀体育频道",精品体育
+http://172.50.0.2:7777/hls/85732eff5a7419470ca62986.m3u8
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://www.xn--rgv465a.top/tvlogo/直播中国.png" group-title="🐼景区直播",直播中国
 http://172.50.0.2:7777/hls/26fbaf7b44a591f2e811c26a.m3u8
